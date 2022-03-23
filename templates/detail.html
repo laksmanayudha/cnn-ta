@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/detail.css') }}">
+    <title>Detail</title>
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <div class="navbar">
+        <div class="menu">
+            <span><a class="menu-list" href="/">Teks</a></span>
+            <span><a class="menu-list" href="/multiple">Upload</a></span>
+        </div>
+    </div>
+
+    <!-- MAIN -->
+    <div class="outer-wrapper">
+        <!-- JOURNEY -->
+        <div class="wrapper">
+            <div class="journey">
+                <span><a href="/">klasifikasi</a> >> <a href="/categorylist">list</a> >> <a href="#">preview</a></span>
+            </div>
+        </div>
+
+        <!-- DETAIL -->
+        <div class="wrapper">
+            <div><h1>Kategori: Teknologi</h1></div>
+            <div><h3>Preview file: namafile.txt</h3></div>
+            <div class="paragraf">
+                <p>
+                    Peneliti Ciptakan Alat Pendeteksi Gambar Palsu Deepfake
+                    KOMPAS.com - Deepfake merupakan proses kecerdasan buatan (Artificial Intelligence/AI) deep learning yang mampu mengubah wajah seseorang dalam foto atau video menjadi orang lain, lengkap dengan gerakan eskpresi wajah dan pencahayaan yang sesuai aslinya. 
+                    Dengan penggunaan AI, hasil modifikasi Deepfake bisa sangat halus dan realistis sehingga tampak meyakinkan. Deepfake sering disalahgunakan, misalnya untuk membuat konten berbau pornografi yang seakan-akan diperankan orang tertentu, padahal bukan.
+                    Meski demikian, ternyata ada cara untuk mendeteksi gambar hasil olahan Deepfake, seperti yang ditunjukkan oleh tool buatan tim peneliti dari Universitas Buffalo, New York, AS. 
+                </p>
+                <p>
+                    Tool ini bekerja dengan mendeteksi refleksi cahaya yang dipantulkan oleh mata. Secara spesifik, tools bikinan peneliti ini akan menganalisa pola reflektif yang terpantul pada kornea. 
+                    Bagian kornea yang merupakan lapisan luar mata manusia bersifat reflektif sehingga akan memantulkan bayangan benda-benda di sekelilingnya. Pola pantulan inilah yang kemudian dianalisa. 
+        
+                    Lyu et. al Dari kiri ke kanan: Foto asli yang ditangkap dengan kamera dan gambar Deepfake
+                    Pada foto yang memuat wajah asli, bayangan benda-benda yang terdapat pada kedua mata akan memiliki bentuk dan pola yang sama. Sebaliknya, foto Deepfake biasanya memikiki pola reflektif yang tidak konsisten antara satu mata dengan mata lainnya.
+                    Setelah berhasil menganalisa pola reflektif cahaya, tool ini kemudan bakal melakukan perhitungan skor. Semakin kecil skor yang dihasilkan, maka semakin besar kemungkinan bahwa foto tersebut merupakan gambar Deepfake.
+                    Dihimpun KompasTekno dari The Next Web, Senin (15/3/2021), tool tersebut diklaim memiliki tingkat akurasi yang tinggi dalam mendeteksi gambar Deepfake, yakni mencapai 94 persen.
+        
+                </p>
+                <p>
+                    Angka tersebut diperoleh berdasarkan hasil pengujian yang dilakukan peneliti terhadap foto yang diambil dari This Person Does Not Exist, sebuah repositori gambar Deepfake yang dibuat dengan arsitektur StyleGAN2.
+                    Meski demikian, tool pendeteksi Deepfake ini masih memiliki beberapa kelemahan karena mengandalkan refleksi cahaya yang dipantulkan oleh kedua mata. Pantulan itu bisa saja dimodifikasi suapaya lebih seragam dan sulit dideteksi.
+                </p>
+            </div>
+
+            <!-- PREDICTION -->
+            <div class="evaluasi">
+                <h3>Probabilitas:</h3>
+                <table>
+                    <tr>
+                        <td>Teknologi</td>
+                        <td>: 5%</td>
+                    </tr>
+                    <tr>
+                        <td>Health</td>
+                        <td>: 5%</td>
+                    </tr>
+                    <tr>
+                        <td>Otomotif</td>
+                        <td>: 5%</td>
+                    </tr>
+                    <tr>
+                        <td>News</td>
+                        <td>: 5%</td>
+                    </tr>
+                    <tr>
+                        <td>Bola</td>
+                        <td>: 5%</td>
+                    </tr>
+                    <tr>
+                        <td>Lifestyle</td>
+                        <td>: 5%</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

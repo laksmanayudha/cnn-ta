@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/index.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}">
+    <title>Multiple Uplaod</title>
+</head>
+<body>
+    <!-- NAVBAR -->
+    <div class="navbar">
+        <div class="menu">
+            <span><a class="menu-list" href="/">Teks</a></span>
+            <span><a class="menu-list" href="/multiple">Upload</a></span>
+        </div>
+    </div>
+    
+    <!-- MAIN -->
+    <div class="outer-wrapper">
+        <!-- UPLOAD -->
+        <section class="section1">
+            <h1>KLASIFIKASI BERITA</h1>
+            <div class="wrapper">
+                <div class="upload">
+                    <div class="up-title">
+                        <p>Upload artikel berita</p>
+                        <hr>
+                    </div>
+                    <form action="#">
+                        <input type="file" name="files[]" multiple>
+                        <button type="button">Upload</button>
+                        <button type="button" disabled>Submit</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+        
+        <!-- KATEGORI -->
+        <section class="section2">
+            <h3>Kategori</h3>
+            <div class="wrapper-ctg">
+                <!-- TEKNOLOGI -->
+                <div class="ctg-card">
+                    <div class="title-bg teknologi">
+                        <div class="ctg-title">Teknologi</div>
+                    </div>
+                    <div class="wrapper-total">
+                        <div class="total">
+                            <div>
+                                <span class="number">25</span>
+                                <span>file</span>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <hr>
+                            <div class="lihat">
+                                <a href="/categorylist">lihat >></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- HEALTH -->
+                <div class="ctg-card">
+                    <div class="title-bg health">
+                        <div class="ctg-title">Health</div>
+                    </div>
+                    <div class="wrapper-total">
+                        <div class="total">
+                            <div>
+                                <span class="number">25</span>
+                                <span>file</span>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <hr>
+                            <div class="lihat">
+                                <a href="/categorylist">lihat >></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- LIFESTYLE -->
+                <div class="ctg-card">
+                    <div class="title-bg lifestyle">
+                        <div class="ctg-title">Lifestyle</div>
+                    </div>
+                    <div class="wrapper-total">
+                        <div class="total">
+                            <div>
+                                <span class="number">25</span>
+                                <span>file</span>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <hr>
+                            <div class="lihat">
+                                <a href="/categorylist">lihat >></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- BOLA -->
+                <div class="ctg-card">
+                    <div class="title-bg bola">
+                        <div class="ctg-title">Bola</div>
+                    </div>
+                    <div class="wrapper-total">
+                        <div class="total">
+                            <div>
+                                <span class="number">25</span>
+                                <span>file</span>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <hr>
+                            <div class="lihat">
+                                <a href="/categorylist">lihat >></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- OTOMOTIF -->
+                <div class="ctg-card">
+                    <div class="title-bg otomotif">
+                        <div class="ctg-title">Otomotif</div>
+                    </div>
+                    <div class="wrapper-total">
+                        <div class="total">
+                            <div>
+                                <span class="number">25</span>
+                                <span>file</span>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <hr>
+                            <div class="lihat">
+                                <a href="/categorylist">lihat >></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- NEWS -->
+                <div class="ctg-card">
+                    <div class="title-bg news">
+                        <div class="ctg-title">News</div>
+                    </div>
+                    <div class="wrapper-total">
+                        <div class="total">
+                            <div>
+                                <span class="number">25</span>
+                                <span>file</span>
+                            </div>
+                        </div>
+                        <div class="detail">
+                            <hr>
+                            <div class="lihat">
+                                <a href="/categorylist">lihat >></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- DOWNLOAD BUTTON -->
+            <div class="download">
+                <div class="download-btn">
+                    <a href="#">Download hasil klasifikasi</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- SCRIPT -->
+    <script type="text/javascript">
+        console.log("hello")
+    </script>
+</body>
+</html>

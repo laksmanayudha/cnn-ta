@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/single.css') }}">
+    <title>Text Only Classification</title>
+</head>
+<body>
+    
+    <!-- NAVBAR -->
+    <div class="navbar">
+        <div class="menu">
+            <span><a class="menu-list" href="/">Teks</a></span>
+            <span><a class="menu-list" href="/multiple">Upload</a></span>
+        </div>
+    </div>
+
+    <!-- MAIN -->
+    <div class="outer-wrapper">
+        <!-- INPUT -->
+        <div class="wrapper">
+            <div class="title">
+                <h2>KLASIFIKASI BERITA</h2>
+            </div>
+            <div class="input-text">
+                <form action="/post/singleClassify" method="POST">
+                    <textarea name="text" id="" placeholder="Masukan teks disini...">{{data['text']}}</textarea>
+                    <div class="submit-text">
+                        <button class="submit-text-btn shadow" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- PREDICTION -->
+        <div class="wrapper">
+            <div class="evaluasi">
+                <h3>Prediksi: {{ data['category'] }}</h3>
+                <h3>Probabilitas:</h3>
+                <table>
+                    <tr>
+                        <td>Teknologi</td>
+                        <td>: {{data['teknologi']}}</td>
+                    </tr>
+                    <tr>
+                        <td>Health</td>
+                        <td>: {{data['health']}}</td>
+                    </tr>
+                    <tr>
+                        <td>Otomotif</td>
+                        <td>: {{data['otomotif']}}</td>
+                    </tr>
+                    <tr>
+                        <td>News</td>
+                        <td>: {{data['news']}}</td>
+                    </tr>
+                    <tr>
+                        <td>Bola</td>
+                        <td>: {{data['bola']}}</td>
+                    </tr>
+                    <tr>
+                        <td>Lifestyle</td>
+                        <td>: {{data['lifestyle']}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

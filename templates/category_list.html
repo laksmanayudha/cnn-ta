@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/list.css') }}">
+    <title>Category List</title>
+</head>
+<body>
+    <!-- NAVBAR -->
+    <div class="navbar">
+        <div class="menu">
+            <span><a class="menu-list" href="/">Teks</a></span>
+            <span><a class="menu-list" href="/multiple">Upload</a></span>
+        </div>
+    </div>
+
+    <!-- MAIN -->
+    <div class="outer-wrapper">
+        <!-- JOURNEY -->
+        <div class="wrapper">
+            <div class="journey">
+                <span><a href="/">klasifikasi</a> >> <a href="/categorylist">list</a></span>
+            </div>
+        </div>
+
+        <!-- CATEGORY LIST -->
+        <div class="wrapper">
+            <h1>Teknologi</h1>
+            <div class="list-wrapper shadow">
+                <span class="nama-file">Nama File</span>
+                <div class="list-pages">
+                    <div class="list">
+                        <div class="file-detail">
+                            <div class="filename"><span>namafile.txt</span></div>
+                            <div class="lihat-btn shadow">
+                                <a href="/detail">lihat</a>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="list">
+                        <div class="file-detail">
+                            <div class="filename"><span>namafile.txt</span></div>
+                            <div class="lihat-btn shadow">
+                                <a href="/detail">lihat</a>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="list">
+                        <div class="file-detail">
+                            <div class="filename"><span>namafile.txt</span></div>
+                            <div class="lihat-btn shadow">
+                                <a href="/detail">lihat</a>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="list">
+                        <div class="file-detail">
+                            <div class="filename"><span>namafile.txt</span></div>
+                            <div class="lihat-btn shadow">
+                                <a href="/detail">lihat</a>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                    <div class="list">
+                        <div class="file-detail">
+                            <div class="filename"><span>namafile.txt</span></div>
+                            <div class="lihat-btn shadow">
+                                <a href="/detail">lihat</a>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                </div>
+                <div class="pagination">
+                    <div class="pages">
+                        <div class="page-number"><a href="#">first</a></div>
+                        <div class="page-number"><a href="#">&#60;</a></div>
+                        <div class="page-number"><a href="#">1</a></div>
+                        <div class="page-number"><a href="#">2</a></div>
+                        <div class="page-number"><a href="#">3</a></div>
+                        <div class="page-number"><a href="#">...</a></div>
+                        <div class="page-number"><a href="#">&#62;</a></div>
+                        <div class="page-number"><a href="#">last</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
