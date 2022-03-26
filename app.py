@@ -1,3 +1,4 @@
+from lib2to3.pgen2.tokenize import tokenize
 from os import remove
 import sys
 sys.path.append("../klasifikasi")
@@ -26,10 +27,10 @@ from keras.preprocessing.sequence import pad_sequences
 
 classes = ['bola', 'health', 'lifestyle', 'news', 'otomotif', 'teknologi']
 # load classifier
-model = load_model("./asset/models/model_2.h5")
-word2vec = Word2Vec.load("./asset/models/word2vec.model")
-chi_results = pd.read_csv("./asset/chi/new-chi-khusus.csv")
-INPUT_LEN = 400
+model = load_model("./asset/models/model-uji_15-folds-4.h5")
+chi_results = pd.read_csv("./asset/chi/new-chi-khusus-1.csv")
+# INPUT_LEN = 400
+# word2vec = Word2Vec.load("./asset/models/word2vec.model")
 
 def preprocess_data(text):
     text = case_folding_sentence(text)
@@ -45,14 +46,16 @@ def preprocess_data(text):
 
 def get_prediction_2(text):
     # clean data
-    clean_text = preprocess_data(text)
+    clean_text = [preprocess_data(text)]
+    clean_text_tokenize = tokenize_split(clean_text)
+    selected_text = select_features(clean_text_tokenize, chi_results, 0.4)
 
     # feature selection
-    with open('./asset/models/vectorizer.pickle', 'rb') as handle:
+    with open('./asset/models/vectorizer-rasio40.pickle', 'rb') as handle:
         vectorizer = pickle.load(handle)
-        transform_text = vectorizer.transform([clean_text]).toarray()
-        selected_text = select_features_nWords(transform_text, vectorizer.vocabulary_, chi_results, INPUT_LEN)
-        new_selected_text = np.array(selected_text)
+        VOCAB_LEN = len(vectorizer.vocabulary_)
+        transform_text = vectorizer.transform(selected_text).toarray()
+        new_selected_text = transform_text.reshape(len(selected_text), 1, VOCAB_LEN)
 
         # predict
         pred = model.predict(new_selected_text)
