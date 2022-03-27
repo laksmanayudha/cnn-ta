@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ url_for('static', filename='/css/index.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}">
-    <title>Multiple Uplaod</title>
+    <title>Multiple Upload</title>
 </head>
 <body>
     <!-- NAVBAR -->
@@ -59,7 +59,7 @@
                                 {% if count['teknologi'] == 0 %}
                                     <a href="#" disabled>lihat >></a>
                                 {% else %}
-                                    <a href="/categorylist">lihat >></a>
+                                    <a href="/categorylist?ctg=teknologi">lihat >></a>
                                 {% endif %}
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                                 {% if count['health'] == 0 %}
                                     <a href="#" disabled>lihat >></a>
                                 {% else %}
-                                    <a href="/categorylist">lihat >></a>
+                                    <a href="/categorylist?ctg=health">lihat >></a>
                                 {% endif %}
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                                 {% if count['lifestyle'] == 0 %}
                                     <a href="#" disabled>lihat >></a>
                                 {% else %}
-                                    <a href="/categorylist">lihat >></a>
+                                    <a href="/categorylist?ctg=lifestyle">lihat >></a>
                                 {% endif %}
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                                 {% if count['bola'] == 0 %}
                                     <a href="#" disabled>lihat >></a>
                                 {% else %}
-                                    <a href="/categorylist">lihat >></a>
+                                    <a href="/categorylist?ctg=bola">lihat >></a>
                                 {% endif %}
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                                 {% if count['otomotif'] == 0: %}
                                     <a href="#">lihat >></a>
                                 {% else %}
-                                    <a href="/categorylist">lihat >></a>
+                                    <a href="/categorylist?ctg=otomotif">lihat >></a>
                                 {% endif %}
                             </div>
                         </div>
@@ -184,7 +184,7 @@
                                 {% if count['news'] == 0 %}
                                     <a href="#" disabled>lihat >></a>
                                 {% else %}
-                                    <a href="/categorylist">lihat >></a>
+                                    <a href="/categorylist?ctg=news">lihat >></a>
                                 {% endif %}
                             </div>
                         </div>

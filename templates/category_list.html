@@ -22,63 +22,29 @@
         <!-- JOURNEY -->
         <div class="wrapper">
             <div class="journey">
-                <span><a href="/">klasifikasi</a> >> <a href="/categorylist">list</a></span>
+                <span><a href="/multiple"></a> >> <a href="/categorylist?ctg={{category}}">list</a></span>
             </div>
         </div>
 
         <!-- CATEGORY LIST -->
         <div class="wrapper">
-            <h1>Teknologi</h1>
+            <h1>{{category}}</h1>
             <div class="list-wrapper shadow">
                 <span class="nama-file">Nama File</span>
                 <div class="list-pages">
-                    <div class="list">
-                        <div class="file-detail">
-                            <div class="filename"><span>namafile.txt</span></div>
-                            <div class="lihat-btn shadow">
-                                <a href="/detail">lihat</a>
+                    {% for index, file in filelist.iterrows() %}
+                        <div class="list">
+                            <div class="file-detail">
+                                <div class="filename"><span>{{file['filename']}}</span></div>
+                                <div class="lihat-btn shadow">
+                                    <a href="/detail{{ file['query'] }}&filename={{file['filename']}} ">lihat</a>
+                                </div>
                             </div>
+                            <hr>
                         </div>
-                        <hr>
-                    </div>
-                    <div class="list">
-                        <div class="file-detail">
-                            <div class="filename"><span>namafile.txt</span></div>
-                            <div class="lihat-btn shadow">
-                                <a href="/detail">lihat</a>
-                            </div>
-                        </div>
-                        <hr>
-                    </div>
-                    <div class="list">
-                        <div class="file-detail">
-                            <div class="filename"><span>namafile.txt</span></div>
-                            <div class="lihat-btn shadow">
-                                <a href="/detail">lihat</a>
-                            </div>
-                        </div>
-                        <hr>
-                    </div>
-                    <div class="list">
-                        <div class="file-detail">
-                            <div class="filename"><span>namafile.txt</span></div>
-                            <div class="lihat-btn shadow">
-                                <a href="/detail">lihat</a>
-                            </div>
-                        </div>
-                        <hr>
-                    </div>
-                    <div class="list">
-                        <div class="file-detail">
-                            <div class="filename"><span>namafile.txt</span></div>
-                            <div class="lihat-btn shadow">
-                                <a href="/detail">lihat</a>
-                            </div>
-                        </div>
-                        <hr>
-                    </div>
+                    {% endfor %}
                 </div>
-                <div class="pagination">
+                <!-- <div class="pagination">
                     <div class="pages">
                         <div class="page-number"><a href="#">first</a></div>
                         <div class="page-number"><a href="#">&#60;</a></div>
@@ -89,7 +55,7 @@
                         <div class="page-number"><a href="#">&#62;</a></div>
                         <div class="page-number"><a href="#">last</a></div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

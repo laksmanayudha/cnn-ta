@@ -1,3 +1,4 @@
+from distutils import filelist
 import sys
 sys.path.append("../klasifikasi")
 
@@ -161,7 +162,23 @@ def prepare_download(data_category):
     return zip_name + ".zip"
 
 def create_database(data_category):
-    pass
+    database = []
+    for key, listdata in data_category.items():
+        for data in listdata:
+            data['category'] = key
+            data['bola'] = data['prob'][0]
+            data['health'] = data['prob'][1]
+            data['lifestyle'] = data['prob'][2]
+            data['news'] = data['prob'][3]
+            data['otomotif'] = data['prob'][4]
+            data['teknologi'] = data['prob'][5]
+            data['query'] = make_query(key, data['prob']) + "&text=" + data['text']
+            database.append(data)
+    
+    db_path = app.config['DATABASE_FOLDER']
+    df = pd.DataFrame(database)
+    save_to_csv(df, join(db_path, "database.csv"))
+    # print(df)
 
 
 @app.route("/")
@@ -180,11 +197,27 @@ def home():
 
 @app.route("/categorylist")
 def list():
-    return render_template("category_list.html")
+    category = request.args.get("ctg")
+    db_path = join(app.config['DATABASE_FOLDER'], "database.csv")
+    database = pd.read_csv(db_path)
+    filelist = database[database['category'] == category]
+    print(filelist)
+    return render_template("category_list.html", filelist=filelist, category=category)
 
 @app.route("/detail")
 def detail():
-    return render_template("detail.html")
+    data = {
+        'category': request.args.get("category", ''),
+        'teknologi': request.args.get("teknologi", ''),
+        'bola': request.args.get("bola", ''),
+        'news': request.args.get("news", ''),
+        'otomotif': request.args.get("otomotif", ''),
+        'health': request.args.get("health", ''),
+        'lifestyle': request.args.get("lifestyle", ''),
+        'text': request.args.get("text", ''),
+        'filename': request.args.get("filename", '')
+    }
+    return render_template("detail.html", data=data)
 
 @app.route("/multiple")
 def multiple():
