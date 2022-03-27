@@ -125,3 +125,18 @@ body{
     color: white;
     text-decoration: none;
 }
+
+/* #downloadButton{
+    background-color: transparent;
+    border: 0;
+    color: white;
+    background-color: #4895EF;
+    padding: 10px 30px;
+    border-radius: 12px;
+    box-shadow:  0 3px 10px rgba(0, 0, 0, 0.25);
+}
+
+#downloadButton:hover{
+    cursor: pointer;
+    background-color: #3A0CA3;
+} */

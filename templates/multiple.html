@@ -28,10 +28,10 @@
                         <p>Upload artikel berita</p>
                         <hr>
                     </div>
-                    <form action="#">
-                        <input type="file" name="files[]" multiple>
-                        <button type="button">Upload</button>
-                        <button type="button" disabled>Submit</button>
+                    <form action="/post/multipleClassify" method="POST" enctype=multipart/form-data>
+                        <input type="file" name="file" multiple>
+                        <!-- <button type="submit">Upload</button> -->
+                        <button type="submit" >Submit</button>
                     </form>
                 </div>
             </div>
@@ -49,14 +49,18 @@
                     <div class="wrapper-total">
                         <div class="total">
                             <div>
-                                <span class="number">25</span>
+                                <span class="number">{{ count['teknologi'] }}</span>
                                 <span>file</span>
                             </div>
                         </div>
                         <div class="detail">
                             <hr>
                             <div class="lihat">
-                                <a href="/categorylist">lihat >></a>
+                                {% if count['teknologi'] == 0 %}
+                                    <a href="#" disabled>lihat >></a>
+                                {% else %}
+                                    <a href="/categorylist">lihat >></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -70,14 +74,18 @@
                     <div class="wrapper-total">
                         <div class="total">
                             <div>
-                                <span class="number">25</span>
+                                <span class="number">{{ count['health'] }}</span>
                                 <span>file</span>
                             </div>
                         </div>
                         <div class="detail">
                             <hr>
                             <div class="lihat">
-                                <a href="/categorylist">lihat >></a>
+                                {% if count['health'] == 0 %}
+                                    <a href="#" disabled>lihat >></a>
+                                {% else %}
+                                    <a href="/categorylist">lihat >></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -91,14 +99,18 @@
                     <div class="wrapper-total">
                         <div class="total">
                             <div>
-                                <span class="number">25</span>
+                                <span class="number">{{ count['lifestyle'] }}</span>
                                 <span>file</span>
                             </div>
                         </div>
                         <div class="detail">
                             <hr>
                             <div class="lihat">
-                                <a href="/categorylist">lihat >></a>
+                                {% if count['lifestyle'] == 0 %}
+                                    <a href="#" disabled>lihat >></a>
+                                {% else %}
+                                    <a href="/categorylist">lihat >></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -112,14 +124,18 @@
                     <div class="wrapper-total">
                         <div class="total">
                             <div>
-                                <span class="number">25</span>
+                                <span class="number">{{ count['bola'] }}</span>
                                 <span>file</span>
                             </div>
                         </div>
                         <div class="detail">
                             <hr>
                             <div class="lihat">
-                                <a href="/categorylist">lihat >></a>
+                                {% if count['bola'] == 0 %}
+                                    <a href="#" disabled>lihat >></a>
+                                {% else %}
+                                    <a href="/categorylist">lihat >></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -133,14 +149,18 @@
                     <div class="wrapper-total">
                         <div class="total">
                             <div>
-                                <span class="number">25</span>
+                                <span class="number">{{ count['otomotif'] }}</span>
                                 <span>file</span>
                             </div>
                         </div>
                         <div class="detail">
                             <hr>
                             <div class="lihat">
-                                <a href="/categorylist">lihat >></a>
+                                {% if count['otomotif'] == 0: %}
+                                    <a href="#">lihat >></a>
+                                {% else %}
+                                    <a href="/categorylist">lihat >></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -154,14 +174,18 @@
                     <div class="wrapper-total">
                         <div class="total">
                             <div>
-                                <span class="number">25</span>
+                                <span class="number">{{ count['news'] }}</span>
                                 <span>file</span>
                             </div>
                         </div>
                         <div class="detail">
                             <hr>
                             <div class="lihat">
-                                <a href="/categorylist">lihat >></a>
+                                {% if count['news'] == 0 %}
+                                    <a href="#" disabled>lihat >></a>
+                                {% else %}
+                                    <a href="/categorylist">lihat >></a>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -171,7 +195,10 @@
             <!-- DOWNLOAD BUTTON -->
             <div class="download">
                 <div class="download-btn">
-                    <a href="#">Download hasil klasifikasi</a>
+                    <a href="/downloads/{{download_link}}">Download hasil klasifikasi</a>
+                    <!-- <form action="/downloads/{{download_link}}">
+                        <button id="downloadButton" type="submit">Download hasil klasifikasi</button>
+                    </form> -->
                 </div>
             </div>
         </section>
