@@ -1,0 +1,42 @@
+Daftar 7 Layanan Cloud Storage Gratis dan Berbayar
+
+KOMPAS.com - Cloud storage adalah model penyimpanan data komputer di mana data tersebut ditransmisikan dan disimpan pada sistem penyimpanan jarak jauh.
+Data tersebut akan dikelola, dipelihara, dan dicadangkan bagi pengguna melalui jaringan internet.
+Pengguna yang menggunakan cloud umumnya akan membayar penyimpanan data cloud mereka dengan tarif bulanan per konsumsi.
+Cloud storage sendiri merupakan solusi bagi pengguna yang memiliki keterbatasan medium penyimpan perangkat elektronik.
+
+Saat ini terdapat berbagai layanan cloud storage yang banyak dipilih pengguna baik gratis dan berbayar. Apa sajakah itu? Berikut ini KompasTekno merangkum layanan cloud storage yang banyak digunakan pengguna. 
+Google Drive
+businessinsider.com Google Drive for Desktop
+Google Drive salah satu layanan cloud storage atau penyimpanan online gratis dan berbayar yang cukup menjadi pilihan banyak pengguna internet. Google Drive menyediakan penyimpanan gratis hingga 15 GB.
+Untuk versi berbayar, Google Drive menyediakan beberapa paket mulai dari paket dasar dengan penyimpanan 100 GB dengan harga Rp 269.000/tahun, paket standar 200 GB dengan Rp 430.000/tahun, dan paket premium 2 Terabyte dengan harga Rp 1.350.000/tahun.
+Bagi pengguna Google, Google Drive dapat diakses dengan mudah karena menjadi salah satu fitur yang otomatis yang dimiliki pengguna akun Google.
+OneDrive
+KOMPAS.com/Kevin Rizky Pratama Tampilan halaman utama di situs OneDrive.
+OneDrive merupakan penyimpanan online yang umumnya digunakan bagi pengguna Windows. Sama seperti Google Drive, OneDrive memungkinkan pengguna mengunggah dan mensinkronkan berkas ke suatu penyimpan awan dan mengaksesnya melalui peramban.
+Bagi pengguna Windows 10, layanan ini secara otomatis ter-install di device Anda. Namun cloud storage ini memiliki kekurangan dalam kapasitas yaitu hanya mencapai 5 GB.
+
+Jika pengguna tetap ingin menggunakan layanan ini, Anda dapat meng-upgrade kapasitasnya hingga 100 GB dengan harga Rp 31.999 per bulannya. Untuk mengakses paket harga OneDrive selengkapnya Anda dapat mengunjungi link berikut ini.
+Dropbox
+Dropbox Dropbox
+Dropbox salah satu contoh cloud storage lainnya yang juga menjadi andalan pengguna. Sama seperti layanan cloud storage lainnya, Dropbox menyediakan penyimpanan gratis sebesar 2 GB.
+Pengguna juga dapat memperluas penyimpanannya dengan dengan berbagai pilihan paket yang ditawarkan mulai dari Paket Plus dengan kapasitas penyimpanan 2000 GB seharga Rp 1,8 juta per tahun.
+Untuk mebgakses Dropbox, pengguna dapat mengunjungi situs resmi Dropbox berikut ini.
+IDriveTechVise IDrive
+IDrive merupakan cloud storage yang menawarkan penyimpanan gratis sebesar 5 GB. IDrive tidak hanya mencadangkan file di perangkat pribadi namun juga mencadangkan semua foto dari akun media sosial seperti Facebook dan Instagram.
+Untuk mendapatkan penyimpanan yang lebih besar, pengguna dapat melakukan upgrade dengan Paket iDrive Personal hingga 5 Terabyte dengan harga mulai dari Rp 846.000.
+
+Pengguna yang ingin mengakses IDrive, dapat mengunjungi situs resmi IDrive berikut ini.
+SpiderOak One
+Spideroak support Spideroak cloud storage
+SpiderOak One menawarkan opsi pencadangan data - data secara online yang berbayar mulai dari 6 dollar AS atau setara dengan Rp 860.000 per bulan untuk 150 GB.
+Penyimpanan online ini memungkinkan pengguna untuk dapat memilih folder atau file apapun di sistem komputer untuk mencadangkan file-nya. Untuk Anda yang tertarik menggunakan SpiderOak, dapat mengunjungi situs resmi SpiderOak berikut ini.
+Box
+Learn Bite Box cloud storage 
+Sama sepert cloud storage lainnya, Box merupakan layanan penyimpanan online berbayar dengan harga mulai dari Rp 215.000 per bulan dengan penyimpanan tidak terbatas, serta batas unggah per file 5 GB.
+Box tidak hanya menawarkan penyimpanan secara online, namun pengguna juga dapat menggunakan tautan bersama untuk berkolaborasi secara efektif. Untuk mengaksesnya, Anda dapat mengunjui laman resmi Box berikut ini.
+SugarSync
+Sugar Sync Sugar Sync cloud storage 
+SugarSync merupakan aplikan penyimpanan online gratis dan berbayar. SugarSync memiliki fitur - fitur antara lain penyimpanan cloud gratis, pencadangan online, dan sinkronisasi data tak terbatas.
+Untuk mengaksesnya secara gratis, pengguna dapat mencoba uji coba gratis penyimpanan online hingga 5 GB di laman resminya.
+Adapun paket cloud storage berbayar yang ditawarkan memiliki harga mulai dari Rp 107.000 dengan penyimpanan hingga 100 GB. Pengguna juga dapat mencobanya gratis selama 30 hari dengan mendaftar akun SugarSync di laman berikut ini.

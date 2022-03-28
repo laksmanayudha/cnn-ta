@@ -1,0 +1,25 @@
+Kaspersky Masuk Daftar Hitam AS, Ini Sebabnya
+KOMPAS.com - Komisi Perdagangan Federal (FCC) Amerika Serikat resmi memasukkan perusahaan antivirus Kaspersky Lab ke dalam daftar hitam (blacklist) bernama "Covered List".
+Di situs resmi FCC, Kaspersky masuk Covered List pada tanggal 25 Maret 2022, setelah dianggap menimbulkan "risiko yang tidak dapat diterima terhadap keamanan nasional AS".
+Kaspersky Lab sendiri adalah perusahaan keamanan jaringan asal Rusia yang terkenal dengan produk atau teknologi antivirusnya.
+Di situs resminya, Kaspersky mengklaim teknologi dan produk perusahannya telah melindungi lebih dari 400 juta pengguna, dan 240.000 perusahaan di seluruh dunia.
+Dengan dimasukkannya nama Kaspersky Lab ke daftar hitam Covered List, perusahaan asal Rusia itu dilarang menerima dukungan melalui Dana Layanan Universal dari FCC.
+
+Selain itu, perusahaan AS lainnya juga dilarang menggunakan subsidi federal melalui Dana Layanan Universal FCC, untuk membeli produk atau layanan apa pun dari perusahaan Kaspersky.
+Selain Kaspersky, FCC juga menambahkan sejumlah perusahaan asal China, seperti China Telecom dan China Mobile International USA ke dalam daftar Covered List pada hari Jumat (25/3/2022).
+Hal ini dilakukan dengan tujuan untuk meningkatkan kekuatan jarigan komunikasi AS terhadap ancaman keamanan nasional.
+"Penambahan mereka ke Covered List akan membantu mengamankan jaringan kami dari ancaman yang ditimbulkan oleh entitas yang didukung negara China dan Rusia yang terlibat spionase. Bila tidak, itu akan merugikan AS," kata Ketua FCC Jessica Rosenworcel dalam siaran pers.
+Perlu ketahui, daftar "Covered List" ini berbeda dengan daftar "entity list" yang diterapkan oleh Departemen Perdagangan AS, di mana Huawei masuk dalam daftar itu.
+Seluruh perusahaan yang masuk dalam daftar entity list, dilarang melakukan transaksi apa pun, termasuk jual-beli komponen dan software dengan perusahaan AS, tanpa persetujuan pemerintah AS.
+
+Sementara daftar Covered List ini hanya melarang perusahaan-perusahaan AS untuk tidak menggunakan Dana Layanan Universal FCC untuk membeli produk atau layanan apa pun dari perusahaan yang ada di dalam daftar.
+Gara-gara invasi Rusia?
+Ini pertama kalinya pemerintah AS memasukkan nama perusahaan asal Rusia ke dalam daftar hitamnya. Sebelum-sebelumnya, kebanyakan perusahaan yang masuk daftar hitam adalah perusahaan yang berasal dari China.
+Pihak Kaspersky sendiri sudah mengetahui soal masalah ini dan mengaku kecewa atas keputusan FCC.
+Dalam sebuah keterangan, Kaspersky menilai bahwa keputusan FCC memasukkan persuahaannya ke dalam Covered List itu "dibuat atas dasar politik" sehubungan dengan invasi Rusia ke Ukraina. Bukan murni atas pemilian atau evaluasi komprehensif atas integritas produk dan layanan Kaspersky.
+
+Namun, Kaspersky mengatakan bahwa perusahaannya "tetap siap untuk bekerja sama dengan lembaga pemerintah AS untuk menindaklanjuti kekhawatiran FCC dan badan pemerintah lainnya", sebagaimana dihimpun KompasTekno dari The Verge, Senin (28/3/2022).
+Sebelum dimasukkan ke daftar Covered List pada 2022 ini, software Kaspersky sendiri sudah sempat dilarang penggunaannya oleh pemerintah AS pada 2017 silam.
+Ketika itu, intelijen Rusia diduga menggunakan software antivirus Kaspersky untuk mencuri dokumen rahasia dari Badan Keamanan Nasional AS. Dugaan ini sebenarnya sudah dibantah oleh Kaspersky.
+Namun, pemerintah AS tetap melarang penggunaan software Kaspersky di oleh badan-badan federal dan pemerintah AS.
+Bahkan Mantan Presiden Donald Trump menandatangani undang-undang yang melarang penggunaan produk Kaspersky oleh agen federal setelah menuduh perusahaan tersebut memiliki hubungan dengan Kremlin (sebutan lain untuk pemerintahan Rusia).

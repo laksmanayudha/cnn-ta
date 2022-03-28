@@ -1,0 +1,21 @@
+Cara “Copy” Tabel dari Website ke Google Spreadsheet dengan Cepat
+KOMPAS.com - Google Spreadsheet atau biasa disebut dengan Spreadsheet punya cukup banyak fitur yang memudahkan pengguna dalam menyelesaikan pekerjaan-pekerjaan berkaitan dengan data angka.
+Salah satu fitur dari platform pengolah data angka milik Google itu yang mungkin cukup menarik, yaitu pengguna bisa impor data dari website ke Spreadsheet secara langsung, tanpa harus menyalin dan menempelnya satu per satu.
+
+Beberapa website kadangkala menyajikan informasi atau data dalam bentuk tabel. Mungkin cukup memakan waktu bila harus menyalin data yang ada di tabel tersebut ke lembar kerja Spreadsheet, secara manual.
+Dengan fitur impor data dari website ke Spreadsheet, Anda bisa langsung menyalin (copy) tabel serta datanya yang ditampilkan di website secara sekaligus, kemudian menempelkannya di lembar kerja Spreadsheet.
+Sehingga, Anda tidak perlu membuat tabel di Spreadsheet dulu, kemudian menyalin dan memasukkan data pada tabel yang berasal dari website. Fitur ini mungkin cukup membantu bagi Anda yang sering terlibat dalam pekerjaan mengolah data tabel.
+Cara copy tabel dari website ke Spreadsheet ini cukup mudah, hanya membutuhkan rumus atau formula tertentu dan tabel dari website yang ingin disalin. Untuk lebih lengkapnya, simak cara copy tabel dari website ke Spreadsheet di bawah ini.
+Cara copy tabel dari website ke Spreadsheet
+=IMPORTHTML("alamat web"; (spasi) "table"; (spasi) 1)
+
+Misalnya, KompasTekno dalam kesempatan ini mencoba menyalin tabel data perkembangan kasus Covid-19 di Indonesia yang disajikan oleh Antara News, untuk dipindah ke Spreadsheet, seperti yang tertera pada gambar di bawah.
+Antara News Ilustrasi cara copy tabel dari website ke Spreadsheet
+
+Setelah menyalin URL dari website Antara News yang berisi data tersebut, lalu mulai membuka Spreadsheet dan membuat rumus pada sel. Ada pun format rumus setelah dimasukkan URL tersebut bakal tampil seperti ini:
+=IMPORTHTML("https://www.antaranews.com/covid-19"; "table"; 1)
+KOMPAS.com/Zulfikar Ilustrasi cara copy tabel dari website ke Spreadsheet
+Setelah memasukkan rumus dengan benar dan klik Enter maka bakal muncul data dari website tersebut di lembar kerja Spreadsheet, sebagaimana tertera pada gambar di bawah ini.
+KOMPAS.com/Zulfikar Ilustrasi cara copy tabel dari website ke Spreadsheet
+
+Data bakal muncul secara otomatis dengan susunan persis seperti yang tertera di website. Bagaimana, cukup mudah bukan? Demikian cara copy tabel dari website ke Spreadsheet, semoga bermanfaat.

@@ -1,0 +1,26 @@
+5 Cara Mengatasi Masalah "Situs Ini Tidak Dapat Dijangkau" di Google Chrome
+KOMPAS.com - Saat membuka situs lewat browser Google Chrome, terkadang pengguna mengalami masalah di mana website yang dituju tidak dapat terbuka. 
+Saat masalah tersebut muncul, layar akan menampilkan pemberitahuan "situs tidak dapat dijangkau" atau "this site can’t be reached" seperti pada gambar di bawah ini. 
+Kinsta Situs tidak dapat dijangkau Masalah "situs tidak dapat dijangkau" ini disebabkan oleh berbagai hal, seperti koneksi internet, hingga cache browser yang menumpuk. Adapun terdapat beberapa cara untuk mengatasi masalah satu ini.
+Berikut ini KompasTekno rangkum beberapa cara mengatasi masalah "situs ini tidak dapat dijangkau" di Google Chrome.
+
+1. Restart koneksi internet
+Situs tidak dapat dijangkau bisa jadi dapat disebabkan karena koneksi internet stabil. Anda dapat mencoba mengeceknya dengan mematikan koneksi internet dan menyalakannya kembali.
+Jika Anda menggunakan router, cobalah untuk mencabut kabel router dan menunggu satu menit. Setelah itu sambungkan kabel router kembali.
+2. Bersihkan cache di browser
+Kompas.com/soffyaranti cache chromeChrome menyimpan banyak data dan file dari berbagai situs yang Anda kunjungi. Maka dari itu, browser Anda akan menyimpan berbagai file tersebut dalam bentuk cache.
+Cache ini yang berguna agar pengguna tidak perlu melakukan login atau memuat ulang situs -situs yang pernah dikunjungi. 
+Namun, untuk beberapa kasus, cache ini bisa menjadi penyebab situs tidak dapat dijangkau dan Anda tidak dapat mengaksesnya. Untuk mengatasi hal ini, hapus cache di browser. Caranya:
+
+3. Periksa DNS Chrome
+Kompas.com/soffyaranti hapus cache dnsBrowser juga menyimpan banyak data dari situs web yang Anda kunjungi. Tak terkecuali juga menyimpan alamat IP yang biasa disebut dengan cache DNS.
+Untuk mengatasi situs tidak dapat dijangkau, Anda juga dapat mencoba menghapus cache DNS browser Anda. Berikut ini caranya:
+4. Matikan antivirus
+Kompas.com/soffyaranti Cara mematikan antivirus Antivirus yang terpasang di PC Anda bisa jadi salah satu penyebab website tidak dapat dijangkau atau dibuka.
+Maka cobalah untuk mematikan sejenak antivirus yang terpasang di PC Anda. Adapun cara mematikan antivirus di PC Windows berikut ini:
+5. Ganti server DNS
+Kompas.com/soffyaranti Cara ubah DNSJika beberapa cara di atas masih saja belum menghubungkan Anda ke situs tujuan, maka cobalah untuk mengganti server DNS yang digunakan. DNS atau Domain Name Server adalah sistem yang bertugas untuk menyimpan data domain dalam jaringan.
+
+Berikut ini cara mengubah server DNS di PC Windows:
+Demikian cara mengatasi situs yang tidak dapat dijangkau dan diakses. Semoga membantu.
+ 

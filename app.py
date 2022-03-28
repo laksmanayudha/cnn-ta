@@ -1,4 +1,3 @@
-from distutils import filelist
 import sys
 sys.path.append("../klasifikasi")
 
@@ -13,12 +12,14 @@ import pickle
 from chi_square import *
 from preprocess import *
 from helper import *
-from flask import Flask, flash, redirect, render_template, request, send_from_directory
+from flask import Flask, session, redirect, render_template, request, send_from_directory
 # from werkzeug.utils import secure_filename
 from keras.models import load_model
 # from gensim.models.word2vec import Word2Vec
 # from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
+from flask_session import Session
+from localStoragePy import localStoragePy
 
 """
 {'bola': 0, 
@@ -41,10 +42,15 @@ USER_DOWNLOAD_FOLDER = os.path.join(os.getcwd(), "static", "user_download")
 DATABASE_FOLDER = os.path.join(os.getcwd(), "static", "database")
 ALLOWED_EXTENSIONS = {'txt'}
 app = Flask(__name__)
+# app.secret_key = "mySecretKey"
+app.config["SESSION_PERMANENT"] = False
+app.config["SESSION_TYPE"] = "filesystem"
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['DOWNLOAD_FOLDER'] = DOWNLOAD_FOLDER
 app.config['USER_DOWNLOAD_FOLDER'] = USER_DOWNLOAD_FOLDER
 app.config['DATABASE_FOLDER'] = DATABASE_FOLDER
+Session(app)
+localStorage = localStoragePy('./', 'text')
 
 def preprocess_data(text):
     text = case_folding_sentence(text)
@@ -242,7 +248,6 @@ def multiple():
 
     return render_template("multiple.html",data=data_category, count=count, download_link=download_link)
 
-
 @app.route("/post/singleClassify", methods = ['POST'])
 def singleClassify():
     
@@ -261,6 +266,8 @@ def singleClassify():
 
 @app.route("/post/multipleClassify", methods = ['POST', 'GET'])
 def multipleClassify():
+
+    localStorage.setItem("test", "value")
 
     data_category = {
             'bola': [], 
@@ -302,7 +309,11 @@ def multipleClassify():
         data = get_files_data()
 
         # classify file
-        for file in data:
+        for index, file in enumerate(data):
+            f = open("./static/number.txt", "w")
+            f.write(str(index+1))
+            f.close()
+
             category, probabilities = get_prediction_2(file['text'])
             file['prob'] = probabilities
             data_category[category].append(file)

@@ -26,7 +26,7 @@
                 <h2>KLASIFIKASI BERITA</h2>
             </div>
             <div class="input-text">
-                <form action="/post/singleClassify" method="POST">
+                <form action="/post/singleClassify" method="POST" id="classifyText">
                     <textarea name="text" id="" placeholder="Masukan teks disini...">{{data['text']}}</textarea>
                     <div class="submit-text">
                         <button class="submit-text-btn shadow" type="submit">Submit</button>
@@ -68,6 +68,23 @@
             </div>
         </div>
     </div>
+
+    <!-- LOADER -->
+    <div class="loader-wrapper hidden" id="loader">
+        <div>
+            <h1 id="loadingText">Classifying Document...</h1>
+            <div class="loader"></div>
+        </div>
+    </div>
+
+    <!-- SCRIPT -->
+    <script type="text/javascript">
+        const classifyText = document.getElementById("classifyText");
+        const loader = document.getElementById("loader");
+        classifyText.addEventListener("submit", () => {
+            loader.classList.toggle("hidden");
+        })
+    </script>
 
 </body>
 </html>

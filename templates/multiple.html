@@ -28,10 +28,10 @@
                         <p>Upload artikel berita</p>
                         <hr>
                     </div>
-                    <form action="/post/multipleClassify" method="POST" enctype=multipart/form-data>
+                    <form action="/post/multipleClassify" method="POST" enctype=multipart/form-data id="classifyForm">
                         <input type="file" name="file" multiple>
                         <!-- <button type="submit">Upload</button> -->
-                        <button type="submit" >Submit</button>
+                        <button type="submit" id="classifyButton">Submit</button>
                     </form>
                 </div>
             </div>
@@ -195,7 +195,7 @@
             <!-- DOWNLOAD BUTTON -->
             <div class="download">
                 <div class="download-btn">
-                    <a href="/downloads/{{download_link}}">Download hasil klasifikasi</a>
+                    <a href="/downloads/{{download_link}}" id="downloadButton">Download hasil klasifikasi</a>
                     <!-- <form action="/downloads/{{download_link}}">
                         <button id="downloadButton" type="submit">Download hasil klasifikasi</button>
                     </form> -->
@@ -204,9 +204,33 @@
         </section>
     </div>
 
+    <!-- LOADER -->
+    <div class="loader-wrapper hidden" id="loader">
+        <div>
+            <h1 id="loadingText"></h1>
+            <div class="loader"></div>
+        </div>
+    </div>
+
     <!-- SCRIPT -->
     <script type="text/javascript">
-        console.log("hello")
+        const classifyForm = document.getElementById("classifyForm");
+        const loader = document.getElementById("loader");
+        const loadingText = document.getElementById("loadingText")
+        classifyForm.addEventListener("submit", () => {
+            loader.classList.toggle("hidden");
+
+            setInterval(()  => {
+                fetch("{{ url_for('static', filename='number.txt') }}")
+                    .then((response) => {
+                        return response.text();
+                    })
+                    .then((text) => {
+                        loadingText.innerText = `Classifying Documents ${text}`;
+                        // console.log(text);
+                    });
+            }, 300);
+        })
     </script>
 </body>
 </html>
