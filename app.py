@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../klasifikasi")
+sys.path.append("./asset/klasifikasi")
 
 import os
 import shutil
@@ -185,7 +185,6 @@ def create_database(data_category):
     df = pd.DataFrame(database)
     save_to_csv(df, join(db_path, "database.csv"))
     # print(df)
-
 
 @app.route("/")
 def home():
