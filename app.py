@@ -31,10 +31,11 @@ from localStoragePy import localStoragePy
 """
 # load classifier
 classes = ['bola', 'health', 'lifestyle', 'news', 'otomotif', 'teknologi']
-model = load_model("./asset/models/model-uji_15-folds-4.h5")
+model = load_model("./asset/models/model-v2_uji_23-folds-5.h5")
 chi_results = pd.read_csv("./asset/chi/new-chi-khusus-1.csv")
 # INPUT_LEN = 400
 # word2vec = Word2Vec.load("./asset/models/word2vec.model")
+RATIO = 0.6
 
 UPLOAD_FOLDER = os.path.join(os.getcwd(), "static", "upload")
 DOWNLOAD_FOLDER = os.path.join(os.getcwd(), "static", "download")
@@ -68,10 +69,10 @@ def get_prediction_2(text):
     # clean data
     clean_text = [preprocess_data(text)]
     clean_text_tokenize = tokenize_split(clean_text)
-    selected_text = select_features(clean_text_tokenize, chi_results, 0.4)
+    selected_text = select_features(clean_text_tokenize, chi_results, RATIO)
 
     # feature selection
-    with open('./asset/models/vectorizer-rasio40.pickle', 'rb') as handle:
+    with open('./asset/models/vectorizer-rasio60.pickle', 'rb') as handle:
         vectorizer = pickle.load(handle)
         VOCAB_LEN = len(vectorizer.vocabulary_)
         transform_text = vectorizer.transform(selected_text).toarray()

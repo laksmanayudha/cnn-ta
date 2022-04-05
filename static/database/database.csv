@@ -1,213 +1,333 @@
 ,filename,text,prob,category,bola,health,lifestyle,news,otomotif,teknologi,query
-0,lifestyle1.txt,"Pilih Tidur di Sisi Kiri atau Kanan Kasur? Kenali Makna Psikologisnya
-KOMPAS.com - Dunia terbagi menjadi dua kubu, orang yang tidur di sisi kiri kasur dan lebih suka di sebelah kanan.
-Selera ini membuat kita tanpa disadari langsung mengambil sisi favorit, kapan saja berjumpa tempat tidur. 
-Aaron Surtees, psikolog dari Inggris, menyebutkan sisi tempat tidur favorit tergantung pada tipe kepribadian kita dan bagaimana otak terhubung. 
-""Ada penelitian yang menunjukkan bahwa itu lebih dari sekedar kebiasaan,"" jelasnya, dikutip dari Yahoo.
+0,bola0.txt,"Malaysia Vs Singapura, Kata Kim Pan-gon Usai Harimau Malaya Telan Kekalahan
+KOMPAS.com - Timnas Malaysia mengalami kekalahan dalam pertandingan uji coba melawan Singapura. Ini merupakan kekalahan perdana Malaysia setelah dilatih Kim Pan-gon. 
+Dalam duel Singapura vs Malaysia yang berlangsung di Singapore National Stadium, Sabtu (26/3/2022), Harimau Malaya kalah 1-2. 
+Kim Pan-gon meminta maaf usai pertandingan, tetapi ia menegaskan kekalahan dari Singapura bukan akhir dari segalanya. 
+Pelatih asal Korea Selatan itu fokus untuk meningkatkan permainan timnas Malaysia ke depannya. 
 
-Orang yang tidur di sisi kiri cenderung bangun dalam suasana hati yang lebih positif, lebih tenang dan merasa lebih percaya diri.
-Khususnya jika dibandingkan secara umum daripada orang yang memilih untuk tidur di sisi kanan.
-""Orang yang tidur di sebelah kanan, di sisi lain, diyakini lebih pemarah dan memiliki pandangan yang kurang positif terhadap dunia,"" tambah Aaron. 
+""Kami bermain imbang dengan Singapura, tetapi saya tidak ingin hasil ini karena target kami adalah menang,"" kata Kim Pan-gon, dilansir Kompas.com dari Berita Harian Malaysia. 
+""Ini adalah satu-satunya cara karena jika tidak, kami tidak akan meningkatkan dan mencapai apa yang kami inginkan,"" ujarnya. 
+""Kami berusaha menjadikan sepak bola Malaysia sebagai identitas yang lebih positif, agresif, dinamis, dan proaktif. Jadi inilah yang ingin kami tunjukkan kepada para penggemar,"" tuturnya. 
+Kim Pan-gon optimistis timnas Malaysia bisa meningkat sebab masih ada beberapa area yang perlu diperbaiki untuk semakin memperkuat tim menjelang Kualifikasi Piala Asia 2023 pada Juni mendatang. 
+""Tidak ada keluhan kepada para pemain karena saya menikmati 10 hari yang luar biasa bersama mereka sebelumnya,"" kata Kim Pan-gon. 
 
-Ia menjelaskan, elemen praktis untuk memilih sisi tidur juga dapat berperan.
-Misalnya pada tingkat bawah sada,  orang umumnya akan merasa lebih aman tidur di samping dinding daripada jendela.
-Hal itu juga bisa bergantung pada bagaimana ruangan atau kamar tidur kita ditata atau tingkat kebisingan.
-""Ini juga bisa menjadi kasus pasangan Anda memiliki preferensi yang kuat di sisi tempat tidur mana mereka bersikeras untuk tidur dan tidak ingin membuat mereka marah,"" tambahnya.
-PEXELS/ANDREA PIACQUADIO Ilustrasi tidur.Deputi CEO Sleep Charity, Lisa Artis setuju bahwa sering kali memiliki sisi tempat tidur favorit bukan hanya tentang sisi itu sendiri. 
-Biasanya ini lebih banyak soal kepraktisan tata letak kamar kita.
-Beberapa orang lebih memilih sisi tertentu karena paling dekat dengan kamar mandi atau dengan posisi tidur anaknya. 
-Memang ada unsur psikologis yang juga memiliki peran tertentu selain faktor takhayul. 
-""Namun kami pikir ini lebih tentang orang memilih sisi favorit mereka karena dekat dengan pintu atau untuk alasan praktis lainnya,"" jelasnya.
+""Kami akan meninjau program pelatihan dan tentu saja akan melakukan lebih banyak perbaikan,"" tuturnya. 
+""Kami perlu menenangkan diri sejenak dan kami akan mencari tahu apa yang salah, sehingga kami dapat memperbaiki kesalahan menjadi lebih baik setelah ini,"" ucap Kim Pan-gon. 
+Hasil pertandingan melawan Singapura merupakan kekalahan pertama timnas Malaysia di tangan Kim Pan-gon. 
+Sebelumnya, Kim Pan-gon lebih dulu menemani Malaysia melawan Filipina dalam pertandingan persahabatan pada Rabu (23/3/2022). Pada laga tersebut, Malaysia menang dua gol tanpa balas. ","[9.9241829e-01 1.7830109e-05 3.6369034e-03 1.9247264e-04 1.5437185e-04
+ 3.5800317e-03]",bola,0.9924182891845703,1.7830108845373616e-05,0.0036369033623486757,0.00019247263844590634,0.00015437185356859118,0.0035800316836684942,"?category=bola&bola=0.9924183&health=1.7830109e-05&lifestyle=0.0036369034&news=0.00019247264&otomotif=0.00015437185&teknologi=0.0035800317&text=Malaysia Vs Singapura, Kata Kim Pan-gon Usai Harimau Malaya Telan Kekalahan
+KOMPAS.com - Timnas Malaysia mengalami kekalahan dalam pertandingan uji coba melawan Singapura. Ini merupakan kekalahan perdana Malaysia setelah dilatih Kim Pan-gon. 
+Dalam duel Singapura vs Malaysia yang berlangsung di Singapore National Stadium, Sabtu (26/3/2022), Harimau Malaya kalah 1-2. 
+Kim Pan-gon meminta maaf usai pertandingan, tetapi ia menegaskan kekalahan dari Singapura bukan akhir dari segalanya. 
+Pelatih asal Korea Selatan itu fokus untuk meningkatkan permainan timnas Malaysia ke depannya. 
 
-Secara fisik, sering kali kita terbiasa dengan kenyamanan sehingga secara tidak sadar kita dapat mengembangkan keterikatan karena memori otot.
-""Tidur dalam posisi tertentu menjadi akrab dan nyaman, jadi kita merasa tidak biasa jika tidur di sisi yang berlawanan,"" kata Lisa. 
-Namun bagaiaman soal orang yang tidak punya sisi tidur favorit?
-Artis mengatakan perlu mencoba kedua sisi untuk melihat mana yang lebih cocok untuk selera kita. 
-“Kami merekomendasikan untuk menguji lingkungan tidur Anda dan mencoba berbagai posisi dan kondisi,"" katanya.
-Tujuannya untuk menentukan lingkungan tidur yang sempurna untuk diri sendiri dan kebutuhan tubuh kita. 
-","[2.2342386e-04 7.3495298e-04 9.9890184e-01 2.1205386e-05 9.4390482e-05
- 2.4261972e-05]",lifestyle,0.00022342386364471167,0.0007349529769271612,0.9989018440246582,2.120538556482643e-05,9.439048153581098e-05,2.42619717027992e-05,"?category=lifestyle&bola=0.00022342386&health=0.000734953&lifestyle=0.99890184&news=2.1205386e-05&otomotif=9.439048e-05&teknologi=2.4261972e-05&text=Pilih Tidur di Sisi Kiri atau Kanan Kasur? Kenali Makna Psikologisnya
-KOMPAS.com - Dunia terbagi menjadi dua kubu, orang yang tidur di sisi kiri kasur dan lebih suka di sebelah kanan.
-Selera ini membuat kita tanpa disadari langsung mengambil sisi favorit, kapan saja berjumpa tempat tidur. 
-Aaron Surtees, psikolog dari Inggris, menyebutkan sisi tempat tidur favorit tergantung pada tipe kepribadian kita dan bagaimana otak terhubung. 
-""Ada penelitian yang menunjukkan bahwa itu lebih dari sekedar kebiasaan,"" jelasnya, dikutip dari Yahoo.
+""Kami bermain imbang dengan Singapura, tetapi saya tidak ingin hasil ini karena target kami adalah menang,"" kata Kim Pan-gon, dilansir Kompas.com dari Berita Harian Malaysia. 
+""Ini adalah satu-satunya cara karena jika tidak, kami tidak akan meningkatkan dan mencapai apa yang kami inginkan,"" ujarnya. 
+""Kami berusaha menjadikan sepak bola Malaysia sebagai identitas yang lebih positif, agresif, dinamis, dan proaktif. Jadi inilah yang ingin kami tunjukkan kepada para penggemar,"" tuturnya. 
+Kim Pan-gon optimistis timnas Malaysia bisa meningkat sebab masih ada beberapa area yang perlu diperbaiki untuk semakin memperkuat tim menjelang Kualifikasi Piala Asia 2023 pada Juni mendatang. 
+""Tidak ada keluhan kepada para pemain karena saya menikmati 10 hari yang luar biasa bersama mereka sebelumnya,"" kata Kim Pan-gon. 
 
-Orang yang tidur di sisi kiri cenderung bangun dalam suasana hati yang lebih positif, lebih tenang dan merasa lebih percaya diri.
-Khususnya jika dibandingkan secara umum daripada orang yang memilih untuk tidur di sisi kanan.
-""Orang yang tidur di sebelah kanan, di sisi lain, diyakini lebih pemarah dan memiliki pandangan yang kurang positif terhadap dunia,"" tambah Aaron. 
+""Kami akan meninjau program pelatihan dan tentu saja akan melakukan lebih banyak perbaikan,"" tuturnya. 
+""Kami perlu menenangkan diri sejenak dan kami akan mencari tahu apa yang salah, sehingga kami dapat memperbaiki kesalahan menjadi lebih baik setelah ini,"" ucap Kim Pan-gon. 
+Hasil pertandingan melawan Singapura merupakan kekalahan pertama timnas Malaysia di tangan Kim Pan-gon. 
+Sebelumnya, Kim Pan-gon lebih dulu menemani Malaysia melawan Filipina dalam pertandingan persahabatan pada Rabu (23/3/2022). Pada laga tersebut, Malaysia menang dua gol tanpa balas. "
+1,health0.txt,"Gizi Buruk
+KOMPAS.com - Gizi buruk terjadi ketika seseorang tidak memiliki nutrisi yang seimbang, dalam hal ini kurang atau berlebih.
+Penyebab gizi buruk antara lain pilihan makanan yang tidak tepat, faktor ekonomi, kesulitan memperoleh makanan, serta berbagai kondisi kesehatan fisik dan mental.
+Gizi buruk dapat menyebabkan pertumbuhan tertunda, berat badan rendah, atau pengecilan.
 
-Ia menjelaskan, elemen praktis untuk memilih sisi tidur juga dapat berperan.
-Misalnya pada tingkat bawah sada,  orang umumnya akan merasa lebih aman tidur di samping dinding daripada jendela.
-Hal itu juga bisa bergantung pada bagaimana ruangan atau kamar tidur kita ditata atau tingkat kebisingan.
-""Ini juga bisa menjadi kasus pasangan Anda memiliki preferensi yang kuat di sisi tempat tidur mana mereka bersikeras untuk tidur dan tidak ingin membuat mereka marah,"" tambahnya.
-PEXELS/ANDREA PIACQUADIO Ilustrasi tidur.Deputi CEO Sleep Charity, Lisa Artis setuju bahwa sering kali memiliki sisi tempat tidur favorit bukan hanya tentang sisi itu sendiri. 
-Biasanya ini lebih banyak soal kepraktisan tata letak kamar kita.
-Beberapa orang lebih memilih sisi tertentu karena paling dekat dengan kamar mandi atau dengan posisi tidur anaknya. 
-Memang ada unsur psikologis yang juga memiliki peran tertentu selain faktor takhayul. 
-""Namun kami pikir ini lebih tentang orang memilih sisi favorit mereka karena dekat dengan pintu atau untuk alasan praktis lainnya,"" jelasnya.
+Penyebab
+Terdapat banyak jenis gizi buruk dengan penyebab yang berbeda.
+Beberapa penyebabnya antara lain:
+Terkadang gizi buruk yang ringan tidak menimbulkan gejala.
+Namun, di lain waktu bisa sangat parah sehingga kerusakan yang terjadi pada tubuh bersifat permanen.
+Kemiskinan, bencana alam, masalah politik, dan perang semuanya dapat berkontribusi pada kekurangan gizi dan kelaparan, masalah ini tidak hanya terjadi di negara berkembang. 
+Gizi buruk adalah masalah yang signifikan di seluruh dunia, terutama di kalangan anak-anak.
+Hal ini sangat berbahaya bagi anak-anak karena memengaruhi perkembangan otak dan pertumbuhan lainnya.
+Anak-anak yang menderita gizi buruk memiliki risiko masalah seumur hidup.
 
-Secara fisik, sering kali kita terbiasa dengan kenyamanan sehingga secara tidak sadar kita dapat mengembangkan keterikatan karena memori otot.
-""Tidur dalam posisi tertentu menjadi akrab dan nyaman, jadi kita merasa tidak biasa jika tidur di sisi yang berlawanan,"" kata Lisa. 
-Namun bagaiaman soal orang yang tidak punya sisi tidur favorit?
-Artis mengatakan perlu mencoba kedua sisi untuk melihat mana yang lebih cocok untuk selera kita. 
-“Kami merekomendasikan untuk menguji lingkungan tidur Anda dan mencoba berbagai posisi dan kondisi,"" katanya.
-Tujuannya untuk menentukan lingkungan tidur yang sempurna untuk diri sendiri dan kebutuhan tubuh kita. 
+Gejala
+Beberapa tanda dan gejala gizi buruk antara lain:
+Diagnosis
+Jika seseorang menunjukkan tanda-tanda kekurangan gizi, langkah pertama adalah mencari tahu alasannya.
+Jika dokter mencurigai penyakit Crohn, penyakit celiac, atau kondisi lain, dokter dapat melakukan tes laboratorium untuk memastikan diagnosis.
+Mengobati kondisi tersebut dapat meningkatkan status gizi seseorang.
+Dokter juga dapat melakukan tes berikut:
+
+Perawatan
+Perawatan paling sering terdiri dari:
+Hubungi dokter segera jika gejala ini menyerang:
+Komplikasi
+Jika tidak diobati, gizi buruk dapat menyebabkan:
+Pencegahan
+Untuk mencegah gizi buruk, masyarakat perlu mengonsumsi berbagai zat gizi dari berbagai jenis makanan.
+Orang dewasa yang lebih tua, anak kecil, serta orang dengan penyakit parah atau kronis mungkin memerlukan perawatan tambahan untuk memastikan bahwa mereka mendapatkan nutrisi yang mereka butuhkan.
+
+Siapa pun yang mulai menunjukkan tanda-tanda gizi buruk harus menemui dokter untuk diagnosis dan perawatan.
+Artikel ini tidak diperuntukkan untuk melakukan self diagnosis. Harap selalu melakukan konsultasi dengan dokter untuk mendapatkan pemeriksaan dan penanganan yang tepat.","[3.9093720e-05 9.9032050e-01 9.6085528e-03 1.3975422e-05 8.9278719e-06
+ 8.9625764e-06]",health,3.909372026100755e-05,0.9903205037117004,0.009608552791178226,1.3975422007206362e-05,8.927871931518894e-06,8.962576430349145e-06,"?category=health&bola=3.909372e-05&health=0.9903205&lifestyle=0.009608553&news=1.3975422e-05&otomotif=8.927872e-06&teknologi=8.962576e-06&text=Gizi Buruk
+KOMPAS.com - Gizi buruk terjadi ketika seseorang tidak memiliki nutrisi yang seimbang, dalam hal ini kurang atau berlebih.
+Penyebab gizi buruk antara lain pilihan makanan yang tidak tepat, faktor ekonomi, kesulitan memperoleh makanan, serta berbagai kondisi kesehatan fisik dan mental.
+Gizi buruk dapat menyebabkan pertumbuhan tertunda, berat badan rendah, atau pengecilan.
+
+Penyebab
+Terdapat banyak jenis gizi buruk dengan penyebab yang berbeda.
+Beberapa penyebabnya antara lain:
+Terkadang gizi buruk yang ringan tidak menimbulkan gejala.
+Namun, di lain waktu bisa sangat parah sehingga kerusakan yang terjadi pada tubuh bersifat permanen.
+Kemiskinan, bencana alam, masalah politik, dan perang semuanya dapat berkontribusi pada kekurangan gizi dan kelaparan, masalah ini tidak hanya terjadi di negara berkembang. 
+Gizi buruk adalah masalah yang signifikan di seluruh dunia, terutama di kalangan anak-anak.
+Hal ini sangat berbahaya bagi anak-anak karena memengaruhi perkembangan otak dan pertumbuhan lainnya.
+Anak-anak yang menderita gizi buruk memiliki risiko masalah seumur hidup.
+
+Gejala
+Beberapa tanda dan gejala gizi buruk antara lain:
+Diagnosis
+Jika seseorang menunjukkan tanda-tanda kekurangan gizi, langkah pertama adalah mencari tahu alasannya.
+Jika dokter mencurigai penyakit Crohn, penyakit celiac, atau kondisi lain, dokter dapat melakukan tes laboratorium untuk memastikan diagnosis.
+Mengobati kondisi tersebut dapat meningkatkan status gizi seseorang.
+Dokter juga dapat melakukan tes berikut:
+
+Perawatan
+Perawatan paling sering terdiri dari:
+Hubungi dokter segera jika gejala ini menyerang:
+Komplikasi
+Jika tidak diobati, gizi buruk dapat menyebabkan:
+Pencegahan
+Untuk mencegah gizi buruk, masyarakat perlu mengonsumsi berbagai zat gizi dari berbagai jenis makanan.
+Orang dewasa yang lebih tua, anak kecil, serta orang dengan penyakit parah atau kronis mungkin memerlukan perawatan tambahan untuk memastikan bahwa mereka mendapatkan nutrisi yang mereka butuhkan.
+
+Siapa pun yang mulai menunjukkan tanda-tanda gizi buruk harus menemui dokter untuk diagnosis dan perawatan.
+Artikel ini tidak diperuntukkan untuk melakukan self diagnosis. Harap selalu melakukan konsultasi dengan dokter untuk mendapatkan pemeriksaan dan penanganan yang tepat."
+2,lifestyle0.txt,"Speedmaster Moonswatch, Kolaborasi Nyeleneh Omega x Swatch 
+
+KOMPAS.com - Dua pembuat jam, Omega dan Swatch bekerjasama dalam upaya kolaborasi menarik.
+Kolaborasi ini dianggap unik karena Omega dikenal sebagai pembuat jam mekanis serius kelas atas, sedangkan swatch banyak memproduksi jam lucu yang dijual massal dengan harga murah.
+Selain itu karya yang diangkat pun bukan seri sembarangan: arloji pertama yang pernah mendarat di Bulan, yakni Speedmaster Professional atau juga dikenal sebagai Moonwatch (jam tangan bulan).
+Hasilnya, terciptalah Omega x Swatch Speedmaster Moonswatch --plesetan dari Moonwatch--dalam 11 varian warna yang meriah.
+
+Arloji ini dibuat ulang oleh Swatch Group, di mana Swatch memanfaatkan material Bioceramic untuk merancang cangkang berdiameter 42 milimeter yang presisi, disertai lyre lug dan bezel.
+ Omega x Swatch Speedmaster Professional Moonwatch
+Setiap bagian, mulai dari jarum jam, tiga subdial, dan indeks menit dikreasikan ulang demi menawarkan siluet dan tampilan Moonwatch dalam format yang berbeda.
+Sebanyak 11 model Moonwatch yang disuguhkan merujuk pada objek luar angkasa dan planet yang ada di dalam tata surya, yakni Bumi, Bulan, Matahari, Merkurius, Venus, Mars, Jupiter, Saturnus, Uranus, Neptunus, dan Pluto.
+Beberapa model juga mengingatkan kita akan warisan Omega di masa lalu, salah satunya versi Mars yang dikelir merah dan putih.
+Desain arloji itu mengacu pada Speedmaster Alaska Project yang dibuat watchmaker Swiss untuk Badan Penerbangan dan Antariksa AS (NASA) dalam misi ke planet Mars.
+Ada pula Moonwatch versi Bulan yang diberi campuran bahan Bioceramic dan bubuk baja tahan karat lima persen.
+
+ Omega x Swatch Speedmaster Professional Moonwatch
+Penggunaan bubuk baja tersebut merupakan bentuk penghormatan Omega dan Swatch terhadap Speedmaster Professional baja tahan karat yang berhasil mencapai Bulan pada 1969.
+Berbeda dengan seri asli yang merupakan jam mekanis, masing-masing model hasil kolaborasi ini digerakkan oleh mesin kuarsa dan mendapat tali velcro two-piece yang dihiasi kedua logo pembuat jam.
+Bagian cangkang belakang setiap arloji diberi teks bertuliskan ""Mission To..."" dengan ilustrasi planet atau objek luar angkasa yang sesuai.
+Misalnya, untuk Moonwatch versi Bulan, tercantum teks ""Mission To The Moon"" dan ilustrasi Bulan.
+Omega x Swatch Moonwatch dilabeli harga 260 dollar AS (setara Rp 3,7 juta) untuk setiap model.
+Harga ini terbilang sangat terjangkau bagi penggemar jam tangan mewah, dibanding Omega Speedmaster mekanis yang dijual hingga Rp 125 juta tergantung seri.
+Jadi jika kita membeli seluruh model arloji tersebut (11 model), harganya masih jauh lebih murah ketimbang harga satu Omega Speedmaster Moonwatch bermesin mekanis.
+
+ Omega x Swatch Speedmaster Professional Moonwatch
+Omega x Swatch Moonwatch hanya dapat dibeli di butik resmi Swatch mulai tanggal 26 Maret, dan belum dijual secara online.
+Pembelian jam tangan ini juga dibatasi dua unit untuk setiap pelanggan.
+Kolaborasi antara watchmaker dengan merek atau pabrikan di luar industri jam tangan sudah sering terjadi, seperti arloji Carrera buatan TAG Heuer dengan manufaktur Porsche.
+Namun, gagasan terkait dua watchmaker yang saling berkolaborasi merupakan hal baru.
+Pembuat jam sangat berfokus menjaga kualitas merek secara hati-hati, dan ide untuk berbagi ruang dengan pembuat jam lain belum dianggap wajar.
+Lantas apa alasan Omega dan Swatch --dua perusahaan yang merupakan bagian dari grup yang sama dengan pemilik sama-- berkolaborasi?
+ Omega x Swatch Speedmaster Professional Moonwatch
+Selain harus berbagi branding dalam sebuah produk, Omega dan Swatch berada di kelas yang berbeda soal harga.
+Ini merupakan langkah yang cerdik dan berani dari CEO Swatch Group, Nick Hayek Jr.
+Pada kolaborasi bersama Omega, Swatch memasukkan beragam unsur, termasuk sejarah perusahaan, serta warna dan bahan yang biasa digunakan perusahaan itu ke dalam arloji Moonwatch.
+Campur tangan Swatch dari kolaborasi ini terlihat jelas: Omega x Swatch Speedmaster bisa dikoleksi, mudah diakses, dan menarik.
+Menurut Hayek dan CEO Omega Raynald Aeschlimann, konsep kolaborasi dapat berjalan baik karena pada dasarnya apa yang dihasilkan adalah jam tangan Swatch, bukan gabungan antara kedua merek.
+Mereka berdua sepakat akan menentang konsep kolaborasi jika arloji itu terbuat dari bahan logam.
+
+ Omega x Swatch Speedmaster Professional Moonwatch
+Material Bioceramic (campuran plastik dari minyak jarak dan keramik) dari Swatch adalah kunci utama dari keseluruhan konsep kolaborasi tersebut.
+Hayek pernah menggunakan material itu untuk membuat cangkang Fifty Fathoms, salah satu arloji besutan Blancpain (merek lain yang bernaung di bawah payung Swatch Group). Namun hasilnya tidak maksimal.
+Selain itu Hayek juga menyebutkan sudah menggunakan Bioceramic untuk menciptakan cangkang arloji yang bukan dari Swatch Group.
+Tetapi untuk Speedmaster Moonswatch, Hayek dan Aeschlimann setuju bahwa material Bioceramic membuat arloji itu terlihat apik.
+","[1.0142080e-05 8.8501374e-06 9.9975961e-01 6.9485868e-06 2.5919957e-05
+ 1.8847435e-04]",lifestyle,1.0142080100195017e-05,8.850137419358362e-06,0.9997596144676208,6.948586815269664e-06,2.5919956897269003e-05,0.00018847435421776026,"?category=lifestyle&bola=1.014208e-05&health=8.850137e-06&lifestyle=0.9997596&news=6.948587e-06&otomotif=2.5919957e-05&teknologi=0.00018847435&text=Speedmaster Moonswatch, Kolaborasi Nyeleneh Omega x Swatch 
+
+KOMPAS.com - Dua pembuat jam, Omega dan Swatch bekerjasama dalam upaya kolaborasi menarik.
+Kolaborasi ini dianggap unik karena Omega dikenal sebagai pembuat jam mekanis serius kelas atas, sedangkan swatch banyak memproduksi jam lucu yang dijual massal dengan harga murah.
+Selain itu karya yang diangkat pun bukan seri sembarangan: arloji pertama yang pernah mendarat di Bulan, yakni Speedmaster Professional atau juga dikenal sebagai Moonwatch (jam tangan bulan).
+Hasilnya, terciptalah Omega x Swatch Speedmaster Moonswatch --plesetan dari Moonwatch--dalam 11 varian warna yang meriah.
+
+Arloji ini dibuat ulang oleh Swatch Group, di mana Swatch memanfaatkan material Bioceramic untuk merancang cangkang berdiameter 42 milimeter yang presisi, disertai lyre lug dan bezel.
+ Omega x Swatch Speedmaster Professional Moonwatch
+Setiap bagian, mulai dari jarum jam, tiga subdial, dan indeks menit dikreasikan ulang demi menawarkan siluet dan tampilan Moonwatch dalam format yang berbeda.
+Sebanyak 11 model Moonwatch yang disuguhkan merujuk pada objek luar angkasa dan planet yang ada di dalam tata surya, yakni Bumi, Bulan, Matahari, Merkurius, Venus, Mars, Jupiter, Saturnus, Uranus, Neptunus, dan Pluto.
+Beberapa model juga mengingatkan kita akan warisan Omega di masa lalu, salah satunya versi Mars yang dikelir merah dan putih.
+Desain arloji itu mengacu pada Speedmaster Alaska Project yang dibuat watchmaker Swiss untuk Badan Penerbangan dan Antariksa AS (NASA) dalam misi ke planet Mars.
+Ada pula Moonwatch versi Bulan yang diberi campuran bahan Bioceramic dan bubuk baja tahan karat lima persen.
+
+ Omega x Swatch Speedmaster Professional Moonwatch
+Penggunaan bubuk baja tersebut merupakan bentuk penghormatan Omega dan Swatch terhadap Speedmaster Professional baja tahan karat yang berhasil mencapai Bulan pada 1969.
+Berbeda dengan seri asli yang merupakan jam mekanis, masing-masing model hasil kolaborasi ini digerakkan oleh mesin kuarsa dan mendapat tali velcro two-piece yang dihiasi kedua logo pembuat jam.
+Bagian cangkang belakang setiap arloji diberi teks bertuliskan ""Mission To..."" dengan ilustrasi planet atau objek luar angkasa yang sesuai.
+Misalnya, untuk Moonwatch versi Bulan, tercantum teks ""Mission To The Moon"" dan ilustrasi Bulan.
+Omega x Swatch Moonwatch dilabeli harga 260 dollar AS (setara Rp 3,7 juta) untuk setiap model.
+Harga ini terbilang sangat terjangkau bagi penggemar jam tangan mewah, dibanding Omega Speedmaster mekanis yang dijual hingga Rp 125 juta tergantung seri.
+Jadi jika kita membeli seluruh model arloji tersebut (11 model), harganya masih jauh lebih murah ketimbang harga satu Omega Speedmaster Moonwatch bermesin mekanis.
+
+ Omega x Swatch Speedmaster Professional Moonwatch
+Omega x Swatch Moonwatch hanya dapat dibeli di butik resmi Swatch mulai tanggal 26 Maret, dan belum dijual secara online.
+Pembelian jam tangan ini juga dibatasi dua unit untuk setiap pelanggan.
+Kolaborasi antara watchmaker dengan merek atau pabrikan di luar industri jam tangan sudah sering terjadi, seperti arloji Carrera buatan TAG Heuer dengan manufaktur Porsche.
+Namun, gagasan terkait dua watchmaker yang saling berkolaborasi merupakan hal baru.
+Pembuat jam sangat berfokus menjaga kualitas merek secara hati-hati, dan ide untuk berbagi ruang dengan pembuat jam lain belum dianggap wajar.
+Lantas apa alasan Omega dan Swatch --dua perusahaan yang merupakan bagian dari grup yang sama dengan pemilik sama-- berkolaborasi?
+ Omega x Swatch Speedmaster Professional Moonwatch
+Selain harus berbagi branding dalam sebuah produk, Omega dan Swatch berada di kelas yang berbeda soal harga.
+Ini merupakan langkah yang cerdik dan berani dari CEO Swatch Group, Nick Hayek Jr.
+Pada kolaborasi bersama Omega, Swatch memasukkan beragam unsur, termasuk sejarah perusahaan, serta warna dan bahan yang biasa digunakan perusahaan itu ke dalam arloji Moonwatch.
+Campur tangan Swatch dari kolaborasi ini terlihat jelas: Omega x Swatch Speedmaster bisa dikoleksi, mudah diakses, dan menarik.
+Menurut Hayek dan CEO Omega Raynald Aeschlimann, konsep kolaborasi dapat berjalan baik karena pada dasarnya apa yang dihasilkan adalah jam tangan Swatch, bukan gabungan antara kedua merek.
+Mereka berdua sepakat akan menentang konsep kolaborasi jika arloji itu terbuat dari bahan logam.
+
+ Omega x Swatch Speedmaster Professional Moonwatch
+Material Bioceramic (campuran plastik dari minyak jarak dan keramik) dari Swatch adalah kunci utama dari keseluruhan konsep kolaborasi tersebut.
+Hayek pernah menggunakan material itu untuk membuat cangkang Fifty Fathoms, salah satu arloji besutan Blancpain (merek lain yang bernaung di bawah payung Swatch Group). Namun hasilnya tidak maksimal.
+Selain itu Hayek juga menyebutkan sudah menggunakan Bioceramic untuk menciptakan cangkang arloji yang bukan dari Swatch Group.
+Tetapi untuk Speedmaster Moonswatch, Hayek dan Aeschlimann setuju bahwa material Bioceramic membuat arloji itu terlihat apik.
 "
-1,otomotif1.txt,"PPMKI Kukuhkan Pengurus Pusat Periode 2021-2024
+3,news0.txt,"Keluarga Surati Kapolri soal Kasus Kematian Akseyna, tapi Tak Kunjung Dibalas...
+JAKARTA, KOMPAS.com - Surat yang dikirimkan ke Kapolri Jenderal Listyo Sigit Prabowo terkait penuntasan kasus kematian Akseyna Ahad Dory (19), pemuda yang kematiannya diselimuti misteri selama tujuh tahun, belum direspons hingga saat ini.
+Diketahui, Akseyna ditemukan meninggal tepatnya di Danau Kenanga, Universitas Indonesia (UI), Depok, Jawa Barat, 26 Maret 2015, atau tujuh tahun lalu.
+Pemuda yang saat itu menempuh pendidikan di jurusan Biologi Fakultas Matematika dan IPA UI, saat pertama kali ditemukan, diduga bunuh diri.
+Belakangan, polisi mengubah dugaannya: Akseyna korban pembunuhan.
 
-BOGOR, KOMPAS.com - Menindaklanjuti Musyawarah Nasional (Munas) di Solo pada November 2021, Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024 resmi dilantik.
-Pelantikan dilakukan pada Minggu 27 Maret 2022, di Sanctuary, Sentul, Bogor. Pelantikan secara resmi ditandai dengan diserahkannya bendera pataka kepada Ketum PPMKI Pusat.
-Acara dibuka dengan menyanyikan lagu kebangsaan Indonesia Raya. Kemudian pembacaan naskah Surat Keputusan yang ditandatangani oleh Ketua IMI Bambang Soesatyo oleh M. Riyanto sebagai Waketum IMI bidang Organisasi.
+Tujuh tahun terlewati, polisi belum mampu menemukan jawaban atas tewasnya Akseyna.
+Marsekal Pertama TNI (Purnawirawan) Mardoto, ayah Akseyna, mengungkapkan bahwa pihak keluarga mengirimkan surat soal penuntasan kasus putranya pada 8 Maret 2022.
+Tak hanya ditujukan ke Kapolri, surat itu juga ditujukan ke Kapolda Metro Jaya Irjen Pol Fadil Imran, Polda Jawa Barat, Polres Metro Depok, dan Polsek Beji.
+Selain itu, pihak keluarga juga mengirimkan surat tersebut ke Komisi Kepolisian Nasional (Kompolnas).
+""Kita kirim surat ke Kapolri dan jajaran terkait, juga Kompolnas. Itu dengan harapan dapat menuntaskan untuk kasus Akseyna ini,"" sebut Mardoto, kepada Kompas.com, Minggu (27/3/2022).
 
-Foto: PPMKI Pelantikan Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024.
-Ronny Arifudin yang dalam Munas sebelumnya kembali terpilih menjadi Ketua Umum PPMKI untuk periode ketiga, kemudian memberikan rencana dan pesan-pesan untuk masa bakti ini.
-""Kesempatan ini juga digunakan untuk merayakan Ulang Tahun IMI ke-116 yang tanggalnya bertepatan,"" tulis rilis resmi PPMKI, Senin (28/3/2022).
-Beberapa wajah yang tidak asing terlihat dalam acara itu, di antaranya Wakil Wali Kota Bogor Dedie Rachim, Serta mantan Menteri Pemuda dan Olahraga (Menpora) Roy Suryo.
+Akan tetapi, usai hampir tiga minggu terlewati, surat itu belum juga direspons Kapolri hingga Kompolnas hingga Minggu ini.
+Namun, Mardoto menduga bahwa kepolisian dan jajaran lain tidak membalas surat itu karena saat ini adalah akhir pekan.
+Di sisi lain, dia tetap mempertanyakan mengapa surat itu tak kunjung dibalas meski sudah hampir tiga minggu terlewati.
+""Iya. Ini yang saya agak agak apa ya, sedikit gamang, kenapa kita sudah surat resmi, tapi belum (dibalas)...,"" ucapnya.
+""Tapi ini jatuhnya kan hari akhir pekan (hari Minggu ini) ya, kemungkinan nanti baru hari Senin atau Selasa agak ramainya. Walau surat itu sudah tiga minggu yang lalu dikirimkannya,"" sambung dia.
 
-Foto: PPMKI Pelantikan Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024.
-Acara turut didatangi beberapa tokoh-tokoh otomotif terkemuka yang tergabung dalam PPMKI seperti Anton Suleiman, Hauwke Setjodiningrat, Benny Hidayat serta Donny Moenek dan Hendra Noor Saleh.
-Selain berlangsung di Marketing Gallery Sanctuary Sentul, event pelantikan ini juga ditayangkan langsung secara online menggunakan link zoom serta live instagram #ppmkipusat .
-""Tujuannya selain bisa lebih mudah menerapkan protokol kesehatan, juga memudahkan lebih banyak anggota dari pengprov serta komunitas lain untuk dapat hadir dalam seremoni,"" tulis rilis.
-Foto: PPMKI Pelantikan Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024.
-Jajaran pengurus PPMKI masa bakti 2021-2024:
-Ketum: Ronny ArifudinWaketum: Prayudha MoeljoKetua Harian: Iwan DiahSekretaris: Musbar MulukBendahara: Saddam MiftahSie. Dana: Mohammad EffendiSie. Humas dan Balap: EM. SamudraSie. IT & Dokumentasi: Marius PratiknjoSie. Kegiatan: Revo PradanaSie. Umum: Muhammad BachraniSie. Keanggotaan: Ismail Ma'rufSie. Sosial: Qodri SiregarSie. Antar Lembaga: Cecil Silanu- wilayah barat: Susilo Anggoro- wilayah timur: dr. IGNB Mahayasa","[3.8355473e-02 1.8413329e-04 4.9772756e-03 5.1332492e-01 3.6683890e-01
- 7.6319300e-02]",news,0.038355473428964615,0.00018413328507449478,0.004977275617420673,0.5133249163627625,0.36683890223503113,0.07631929963827133,"?category=news&bola=0.038355473&health=0.00018413329&lifestyle=0.0049772756&news=0.5133249&otomotif=0.3668389&teknologi=0.0763193&text=PPMKI Kukuhkan Pengurus Pusat Periode 2021-2024
+Mardoto mempertanyakan apakah lamanya respons dari Kapolri dan jajaran lain berkaitan dengan birokrasi.
+""Atau mungkin birokrasinya, ya? Jadi perlu waktu yang lebih lama, enggak tau kenapa itu,"" tuturnya.
+Dia mengakui, Polsek Beji pun belum merespons surat yang dikirimkan pihak keluarga Akseyna.
+Menurut dia, setingkat Polsek tak akan memberi jawaban jika tingkat tertinggi kepolisian juga belum memberikan jawaban.
+""(Polsek Beji) belum (merespons). Saya yakin kalau Polsek enggak berani respons ke kita atau ke umum, kalau yang di paling tinggi (Listyo Sigit) belum merepons,"" ujarnya.
 
-BOGOR, KOMPAS.com - Menindaklanjuti Musyawarah Nasional (Munas) di Solo pada November 2021, Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024 resmi dilantik.
-Pelantikan dilakukan pada Minggu 27 Maret 2022, di Sanctuary, Sentul, Bogor. Pelantikan secara resmi ditandai dengan diserahkannya bendera pataka kepada Ketum PPMKI Pusat.
-Acara dibuka dengan menyanyikan lagu kebangsaan Indonesia Raya. Kemudian pembacaan naskah Surat Keputusan yang ditandatangani oleh Ketua IMI Bambang Soesatyo oleh M. Riyanto sebagai Waketum IMI bidang Organisasi.
+Mardoto menuturkan, dalam surat berkait penuntasan kasus Akseyna, juga terlampir kronologi kematian putranya.
+Menurut dia, surat tersebut sudah dilengkapi dengan informasi-informasi yang dimiliki keluarga soal kematian Akseyna.
+""Surat itu terlampir kronologi. Jadi yang kami susun, kronologi, di samping yang di media sosial atau yang di-video itu, kemudian lengkap lah. Nanti mestinya untuk dasar Kapolri atau jajarannya bisa membaca,"" kata Mardoto.
+Dugaan korban pembunuhan
+Sebagai informasi, saat Akseyna ditemukan dalam kondisi tak bernyawa, polisi menduga mahasiswa UI itu bunuh diri.
+Namun, polisi saat itu tak berhenti menyelidiki. Sejumlah saksi, barang bukti, dan hasil visum kembali diperiksa.
+Penyidik juga memanggil saksi ahli grafolog dari American Handwriting Analysis Foundation Deborah Dewi untuk memberikan keterangan terkait tulisan tangan pada surat itu.
 
-Foto: PPMKI Pelantikan Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024.
-Ronny Arifudin yang dalam Munas sebelumnya kembali terpilih menjadi Ketua Umum PPMKI untuk periode ketiga, kemudian memberikan rencana dan pesan-pesan untuk masa bakti ini.
-""Kesempatan ini juga digunakan untuk merayakan Ulang Tahun IMI ke-116 yang tanggalnya bertepatan,"" tulis rilis resmi PPMKI, Senin (28/3/2022).
-Beberapa wajah yang tidak asing terlihat dalam acara itu, di antaranya Wakil Wali Kota Bogor Dedie Rachim, Serta mantan Menteri Pemuda dan Olahraga (Menpora) Roy Suryo.
+Hasilnya, Debora menyatakan bahwa tulisan tangan pada surat itu bukan tulisan tangan Akseyna. Polisi kemudian berkeyakinan Akseyna adalah korban pembunuhan.
+""Yang bisa diketahui adalah korban meninggal diduga bukan karena bunuh diri,” ujar Direktur Reserse Kriminal Umum Polda Metro Jaya saat itu, Komisaris Besar Krishna Murti.
+Meski telah yakin bahwa Akseyna merupakan korban pembunuhan, polisi kesulitan mengungkap kasus tersebut.
+Polisi menyebutkan, pengungkapan kasus ini cukup sulit karena kondisi tempat kematian korban sudah rusak akibat dimasuki orang yang tidak berkepentingan.
+Hingga akhirnya, kasus kematian Akseyna masih menjadi misteri sampai saat ini.","[6.22293464e-06 1.08727967e-07 3.43064789e-06 9.99976516e-01
+ 1.18708285e-05 1.84053113e-06]",news,6.22293464402901e-06,1.0872796707417365e-07,3.4306478937651264e-06,0.9999765157699585,1.1870828529936261e-05,1.8405311266178614e-06,"?category=news&bola=6.2229346e-06&health=1.0872797e-07&lifestyle=3.430648e-06&news=0.9999765&otomotif=1.18708285e-05&teknologi=1.8405311e-06&text=Keluarga Surati Kapolri soal Kasus Kematian Akseyna, tapi Tak Kunjung Dibalas...
+JAKARTA, KOMPAS.com - Surat yang dikirimkan ke Kapolri Jenderal Listyo Sigit Prabowo terkait penuntasan kasus kematian Akseyna Ahad Dory (19), pemuda yang kematiannya diselimuti misteri selama tujuh tahun, belum direspons hingga saat ini.
+Diketahui, Akseyna ditemukan meninggal tepatnya di Danau Kenanga, Universitas Indonesia (UI), Depok, Jawa Barat, 26 Maret 2015, atau tujuh tahun lalu.
+Pemuda yang saat itu menempuh pendidikan di jurusan Biologi Fakultas Matematika dan IPA UI, saat pertama kali ditemukan, diduga bunuh diri.
+Belakangan, polisi mengubah dugaannya: Akseyna korban pembunuhan.
 
-Foto: PPMKI Pelantikan Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024.
-Acara turut didatangi beberapa tokoh-tokoh otomotif terkemuka yang tergabung dalam PPMKI seperti Anton Suleiman, Hauwke Setjodiningrat, Benny Hidayat serta Donny Moenek dan Hendra Noor Saleh.
-Selain berlangsung di Marketing Gallery Sanctuary Sentul, event pelantikan ini juga ditayangkan langsung secara online menggunakan link zoom serta live instagram #ppmkipusat .
-""Tujuannya selain bisa lebih mudah menerapkan protokol kesehatan, juga memudahkan lebih banyak anggota dari pengprov serta komunitas lain untuk dapat hadir dalam seremoni,"" tulis rilis.
-Foto: PPMKI Pelantikan Pengurus Pusat Perhimpunan Penggemar Mobil Kuno Indonesia (PPMKI) masa bakti 2021-2024.
-Jajaran pengurus PPMKI masa bakti 2021-2024:
-Ketum: Ronny ArifudinWaketum: Prayudha MoeljoKetua Harian: Iwan DiahSekretaris: Musbar MulukBendahara: Saddam MiftahSie. Dana: Mohammad EffendiSie. Humas dan Balap: EM. SamudraSie. IT & Dokumentasi: Marius PratiknjoSie. Kegiatan: Revo PradanaSie. Umum: Muhammad BachraniSie. Keanggotaan: Ismail Ma'rufSie. Sosial: Qodri SiregarSie. Antar Lembaga: Cecil Silanu- wilayah barat: Susilo Anggoro- wilayah timur: dr. IGNB Mahayasa"
-2,teknologi1.txt,"Mau Punya Kerjaan Sampingan? 4 Ide Side Hustle ini Bisa Dilakukan dengan Smartphone
+Tujuh tahun terlewati, polisi belum mampu menemukan jawaban atas tewasnya Akseyna.
+Marsekal Pertama TNI (Purnawirawan) Mardoto, ayah Akseyna, mengungkapkan bahwa pihak keluarga mengirimkan surat soal penuntasan kasus putranya pada 8 Maret 2022.
+Tak hanya ditujukan ke Kapolri, surat itu juga ditujukan ke Kapolda Metro Jaya Irjen Pol Fadil Imran, Polda Jawa Barat, Polres Metro Depok, dan Polsek Beji.
+Selain itu, pihak keluarga juga mengirimkan surat tersebut ke Komisi Kepolisian Nasional (Kompolnas).
+""Kita kirim surat ke Kapolri dan jajaran terkait, juga Kompolnas. Itu dengan harapan dapat menuntaskan untuk kasus Akseyna ini,"" sebut Mardoto, kepada Kompas.com, Minggu (27/3/2022).
 
-KOMPAS.com - Side hustle atau pekerjaan sampingan menjadi solusi bagi milenial yang ingin mencari uang tambahan. Selain itu, melakoni side hustle juga membawa kepuasan tersendiri. Sebab, side hustle yang dijalani biasanya merupakan hobi atau passion.
-Di era digital seperti sekarang, side hustle menjadi peluang yang sayang untuk dilewatkan. Pilihan pekerjaannya beragam, sudah begitu mencarinya pun tergolong mudah. Bahkan, beberapa pekerjaan side hustle bisa dilakukan di rumah hanya bermodalkan smartphone.
-Hal itu dapat membawa keuntungan tersendiri karena kamu tak perlu repot keluar rumah untuk mendapatkan penghasilan tambahan.
+Akan tetapi, usai hampir tiga minggu terlewati, surat itu belum juga direspons Kapolri hingga Kompolnas hingga Minggu ini.
+Namun, Mardoto menduga bahwa kepolisian dan jajaran lain tidak membalas surat itu karena saat ini adalah akhir pekan.
+Di sisi lain, dia tetap mempertanyakan mengapa surat itu tak kunjung dibalas meski sudah hampir tiga minggu terlewati.
+""Iya. Ini yang saya agak agak apa ya, sedikit gamang, kenapa kita sudah surat resmi, tapi belum (dibalas)...,"" ucapnya.
+""Tapi ini jatuhnya kan hari akhir pekan (hari Minggu ini) ya, kemungkinan nanti baru hari Senin atau Selasa agak ramainya. Walau surat itu sudah tiga minggu yang lalu dikirimkannya,"" sambung dia.
 
-Lalu, apa saja jenis profesi yang lagi tren dan dapat dijadikan pekerjaan sampingan dengan menggunakan smartphone? Simak ulasannya di bawah ini.
-Pesatnya perkembangan e-sports dalam beberapa tahun belakangan membuka peluang dari berbagai macam profesi baru yang berkaitan dengan dunia game. Salah satunya adalah gamers profesional yang banyak digandrungi milenial dan gen Z.
-Dengan profesi tersebut, seseorang dapat mengikuti berbagai turnamen, baik berskala nasional maupun internasional. Adapun game dari mobile e-sports yang kerap dipertandingkan, yakni Mobile Legends: Bang Bang, Arena of Valor (AOV), PlayerUnknown's Battlegrounds (PUBG), serta Free Fire.
+Mardoto mempertanyakan apakah lamanya respons dari Kapolri dan jajaran lain berkaitan dengan birokrasi.
+""Atau mungkin birokrasinya, ya? Jadi perlu waktu yang lebih lama, enggak tau kenapa itu,"" tuturnya.
+Dia mengakui, Polsek Beji pun belum merespons surat yang dikirimkan pihak keluarga Akseyna.
+Menurut dia, setingkat Polsek tak akan memberi jawaban jika tingkat tertinggi kepolisian juga belum memberikan jawaban.
+""(Polsek Beji) belum (merespons). Saya yakin kalau Polsek enggak berani respons ke kita atau ke umum, kalau yang di paling tinggi (Listyo Sigit) belum merepons,"" ujarnya.
 
-Untuk melakoni profesi sebagai gamers profesional, kamu membutuhkan smartphone terkini yang dibekali chipset andal serta RAM dan memori internal (ROM) berkapasitas jumbo. Hal ini merupakan syarat wajib karena game keluaran terkini memiliki minimum spesifikasi perangkat yang agak berat.
-DOK.Oppo Indonesia. Ilustrasi seorang gamers bermain game menggunakan Oppo Reno7 Series 5G. 
-Adapun smartphone terkini yang memiliki spesifikasi mumpuni untuk melibas game e-sport adalah Oppo Reno7 Series 5G . Sebagai informasi, Oppo Reno7 Series 5G memiliki dua varian, yakni Oppo Reno7 5G dan Oppo Reno7 Z 5G.
-Oppo Reno7 5G dibekali prosesor teranyar Mediatek Dimensity 900 5G. Sementara, Oppo Reno7 Z 5G menggunakan prosesor terbaru Snapdragon 695 5G. Kedua prosesor itu kompatibel dengan jaringan 5G di Indonesia, terutama pada dukungan band N1, N3 dan N40.
-Untuk memori, Oppo Reno7 5G didukung RAM 8 gigabita (GB) dengan teknologi ekspansi hingga 5 GB dan kapasitas penyimpanan internal sebesar 256 GB.
+Mardoto menuturkan, dalam surat berkait penuntasan kasus Akseyna, juga terlampir kronologi kematian putranya.
+Menurut dia, surat tersebut sudah dilengkapi dengan informasi-informasi yang dimiliki keluarga soal kematian Akseyna.
+""Surat itu terlampir kronologi. Jadi yang kami susun, kronologi, di samping yang di media sosial atau yang di-video itu, kemudian lengkap lah. Nanti mestinya untuk dasar Kapolri atau jajarannya bisa membaca,"" kata Mardoto.
+Dugaan korban pembunuhan
+Sebagai informasi, saat Akseyna ditemukan dalam kondisi tak bernyawa, polisi menduga mahasiswa UI itu bunuh diri.
+Namun, polisi saat itu tak berhenti menyelidiki. Sejumlah saksi, barang bukti, dan hasil visum kembali diperiksa.
+Penyidik juga memanggil saksi ahli grafolog dari American Handwriting Analysis Foundation Deborah Dewi untuk memberikan keterangan terkait tulisan tangan pada surat itu.
 
-Sementara itu, Oppo Reno7 Z 5G juga dimodali RAM 8 GB dengan opsi ekspansi hingga 5 GB dan kapasitas penyimpanan internal 128 GB.
-Dengan spesifikasi tersebut, kedua smartphone Oppo Reno7 Series 5G tersebut mampu melibas game e-sport tanpa hambatan.
-Oppo Reno7 5G dan Oppo Reno7 Z 5G juga menawarkan penggunaan jaringan internet ngebut berbasis 5G. Dengan demikian, aktivitas main game dapat dilakukan lebih lancar dibandingkan jaringan 4G.
-Selain itu, kedua smartphone Oppo Reno7 Series 5G itu sudah dibekali layar AMOLED 6,4 inci dengan resolusi Full HD Plus. Hal ini membuat aktivitas bermain game serta menonton film menjadi lebih jelas dan puas.
-Senang berdandan atau mendandani orang lain? Kamu bisa mencoba profesi sampingan, seperti beauty vlogger. Kamu bisa membuat konten mendandani orang atau diri sendiri di media sosial sebagai ladang penghasilan yang cukup menjanjikan.
-Sebagai contoh, kamu bisa membuat konten tutorial make up atau aktivitas menggunakan skincare, terutama lewat Youtube dan Instagram.
-Bila konten yang dibuat menarik, kamu bisa mendapatkan banyak follower. Selanjutnya, kamu berpeluang untuk mendapatkan endorse dari berbagai brand kecantikan.
-Saat ini, melakoni pekerjaan sampingan beauty vlogger pun bisa dilakukan melalui smartphone. Pasalnya, smartphone terkini sudah dibekali kamera dengan resolusi tinggi dan fitur canggih.
-Sebagai contoh, Oppo Reno7 5G sudah dibekali tiga kamera belakang dan satu kamera depan. Kamera belakangnya terdiri dari kamera utama 64 megapiksel (MP), kamera ultra-wide 8 MP, kamera makro 2 MP. Kamera depannya memiliki resolusi 32 MP.
-Sementara itu, Oppo Reno7 Z 5G dibekali kamera utama 64 MP, kamera bokeh 2 MP, kamera makro 2 MP. Kamera selfie-nya memiliki resolusi 16 MP.
-DOK. Oppo Indonesia. Hasil jepretan kamera Oppo Reno7 Series 5G meniru cara kerja kamera DSLR.
-Selain spesifikasi kamera mumpuni, kedua smartphone Oppo Reno7 Series 5G itu dibekali fitur canggih yang bisa meniru hasil kamera digital single lens reflex (DSLR) dengan lensa bukaan diafragma besar.
-Sebagai gambaran, fitur Portrait Mode Pada Oppo Reno7 5G dapat mensimulasikan 25 tingkatan ukuran diafragma yang dapat disesuaikan, mulai dari bukaan (f) 0.95 hingga f16.
-Selain itu, pada Reno7 Series 5G, Oppo juga menghadirkan fitur Bokeh Flare Portrait. Fitur ini untuk menghadirkan efek bokeh layaknya diproduksi menggunakan kamera profesional pada sebuah perangkat smartphone.
+Hasilnya, Debora menyatakan bahwa tulisan tangan pada surat itu bukan tulisan tangan Akseyna. Polisi kemudian berkeyakinan Akseyna adalah korban pembunuhan.
+""Yang bisa diketahui adalah korban meninggal diduga bukan karena bunuh diri,” ujar Direktur Reserse Kriminal Umum Polda Metro Jaya saat itu, Komisaris Besar Krishna Murti.
+Meski telah yakin bahwa Akseyna merupakan korban pembunuhan, polisi kesulitan mengungkap kasus tersebut.
+Polisi menyebutkan, pengungkapan kasus ini cukup sulit karena kondisi tempat kematian korban sudah rusak akibat dimasuki orang yang tidak berkepentingan.
+Hingga akhirnya, kasus kematian Akseyna masih menjadi misteri sampai saat ini."
+4,otomotif0.txt,"Yamaha XSR 155 Custom, Big Wheels Bike
+YOGYAKARTA, KOMPAS.com - Empat builder dari Jawa Tengah dan Jogja menampilkan hasil custom motor XSR 155 di event Yard Built Indonesia yang digelar di Yogyakarta, Sabtu 26 Maret 2021.
+Salah satu builder yang tampil adalah ajang kali ini ialah Wendy Purnama dari W Bike Kustom. Wendy memamerkan motor custom XSR 155 bertemakan Big Wheels Bike.
+Berbeda dengan builder lain, motor karya Wendy memiliki konsep fun adventure. Konsepnya diambil dari motor zaman dulu Yamaha yang pernah eksis pada tahun 80'an.
 
-Untuk mengoptimalkan subyek foto, Oppo juga menyertakan fitur Selfie HDR pada Oppo Reno7 Series 5G. Selfie HDR dapat menghasilkan foto selfie yang jernih pada lingkungan kurang cahaya atau berlebihan.
-Selain itu, terdapat juga fitur Portrait Retouching. Fitur ini dapat mengenali titik spesifik pada wajah dengan tepat. Secara cerdas, Portrait Retouching dapat mempercantik foto, mulai dari memperbaiki warna kulit atau riasan hingga melakukan penghapusan noda pada wajah, seperti bekas jerawat.
-Bila suka jalan-jalan dan me-review sebuah tempat wisata, kamu bisa mempertimbangkan pekerjaan sampingan menjadi travel vlogger. Kamu bisa membuat video menarik mengenai tempat wisata dan merekomendasikannya kepada pengikut kamu di media sosial.
-Dulu, para traveler kerap membagikan pengalamannya mengunjungi tempat wisata dalam bentuk tulisan di blog.
-Namun, kini banyak traveler yang memilih membagikan ulasan perjalanannya melalui YouTube atau Instagram. Pasalnya, video atau foto yang diposting di YouTube dan Instagram dianggap lebih menarik minat milenial dibandingkan tulisan di blog.
-Saat ini, aktivitas traveler vlogger dapat dilakukan melalui smartphone terkini. Smartphone tersebut harus dibekali fitur videografi terkini supaya dapat memenuhi standar video 4K. Dengan demikian, kualitas video yang dihasilkan pun menjadi lebih tajam dan detail.
-DOK. Oppo Indonesia. Ilustrasi traveler memotret menggunakan Oppo Reno7 Series 5G. 
-Untuk diketahui, kamera belakang Oppo Reno7 5G mampu melakukan pengambilan gambar hingga kualitas 4K dengan kisaran 30 gambar per detik atau frame per second (fps).
-Kamera itu juga dapat mengambil gambar dengan kualitas 1080 piksel (p) atau Full HD dan 720p atau HD dengan kisaran 60 fps dan 30 fps.
-Selanjutnya, kamera depannya sudah mendukung pengambilan gambar 1080p dan 720p dengan 30 fps.
-Sementara itu, Oppo Reno7 Z 5G memiliki kamera belakang yang mendukung pengambilan gambar 1080p dan 720p dengan 30fps. Kamera depannya juga dapat merekam gambar dengan resolusi yang sama.
-Membicarakan fitur, Oppo Reno7 Series 5G sudah dibekali fitur videografi kelas profesional. Misalnya, AI Highlight Video dapat membantu untuk menangkap gambar lebih detail dan menyeimbangkan cahaya pada video tanpa mengurangi detail pada background.
+Foto: Yamaha XSR 155 Motoride ?Tour the Java Heritage?
+Tampang XSR 155 yang berpenampilan retro hilang berganti motor ""kalcer."" Bisa dikatakan ciri khas XSR 155 yang masih dapat terlihat ialah aksen alumunium lubang tiga di bagian samping.
+”Saya memilih tema modifikasi itu karena unik dan berbeda, dan desain ini juga menjadi nostalgia model motor tahun ‘80-an Yamaha BW200 yang mempunyai roda yang besar,"" katanya dalam keterangan resmi, belum lama ini.
+Dari depan lampu depan bulat berganti kotak dengan batok yang menjadi rumah klater meter. Kemudian sepatbor depannya ala motocross jadul berpenampilan besar.
+Tampilan mencolok terlihat dari aplikasi ban bongsor dengan tapak kasar. Wendy mengklaim ubahan ini membuat motornya mudah diajak bertualang.
 
-Dengan fitur itu, pengguna tidak akan mendapati video yang diambil terlalu terang atau gelap pada perekaman Reno7 Series 5G.
-Untuk Oppo Reno7 5G, Oppo telah meningkatkan kemampuan Focus Tracking pada perekaman video.
-Caranya, cukup mengetuk dua kali pada wajah yang ingin dijadikan subyek untuk melacaknya saat merekam video. Selanjutnya, kamera akan mengidentifikasi subyek yang dipilih dan melacaknya secara konsisten.
-Influencer menjadi profesi yang menjadi idaman milenial dan gen Z. Untuk menekuni profesi sampingan ini, setidaknya kamu memiliki beberapa syarat, mulai dari aktif di media sosial, punya banyak pengikut, sering berkomunikasi dengan followers, hingga memiliki konten menarik.
-Menekuni profesi influencer tergolong bisnis bermodal kecil yang menguntungkan karena dapat dilakukan melalui smartphone.
-Kamu bisa memilih media sosial yang bisa dijadikan lahan untuk membuat konten kreatif dan banyak pengikut, seperti Instagram. Selanjutnya, kamu bisa membuat konten yang sesuai dengan hobi, passion, atau kegemaranmu atas suatu hal.
-Bila jumlah pengikutmu mencapai puluhan atau ratusan ribu, kamu berpeluang untuk mendapatkan banyak endorse dari brand yang ingin menggunakan jasa kamu untuk berpromosi.
-Untuk menjadi influencer, kamu membutuhkan perangkat smartphone terkini yang dapat menunjang aktivitasmu sepanjang hari. Selain aktif di media sosial, influencer juga memiliki kesibukan lain di luar profesinya.
-Oleh karena itu, memiliki smartphone dengan kapasitas baterai besar dan fitur fast charging menjadi sebuah keharusan.
-Oppo Reno7 5G memiliki kapasitas baterai sebesar 4.500 miliampere per hour (mAh). Baterainya dibekali dengan teknologi pengisian daya super cepat 65 watt (W) SuperVOOC.
-Dengan teknologi tersebut, pengguna dapat mengisi daya perangkat hingga 100 persen dalam waktu sekitar 31 menit.
-(DOK. Oppo Indonesia). Oppo Reno7 Series 5G mampu menunjang side hustle. 
-Sementara itu, Oppo Reno7 Z 5G dilengkapi baterai 4.500 mAh dan teknologi pengisian daya super cepat 33 W SuperVOOC. Fitur pengisian ini membuat pengguna mampu mengisi baterai sampai penuh dalam waktu 63 menit.
-Kedua smartphone Oppo Reno7 Series 5G itu dapat digunakan seharian untuk menunjang aktivitas berkat kapasitas baterai besar dan fitur fast charging.
-Itulah empat ide side hustle yang bisa kamu lakukan cukup bermodalkan smartphone terkini. Dengan spesifikasi dan teknologi terkini, kamu bisa mempertimbangkan Oppo Reno7 Series 5G untuk mencicipi peluang pekerjaan sampingan.
-Sebagai informasi, Oppo Reno7 5G memiliki harga Rp 7.499.000 dan Oppo Reno7 Z 5G Rp 5.999.000. Kamu bisa mendapatkan kedua varian Oppo Reno7 Series 5G ini dengan paket bundling eksklusif Telkomsel. Paket tersebut berupa paket data hingga 192 GB dan tambahan 10 GB eksklusif pada jaringan 5G.
-Kamu bisa memesan Oppo Reno7 Series 5G secara daring di seluruh e-commerce di Indonesia dan aplikasi Oppo Store. Sementara, untuk pemesanan offline, kamu bisa membelinya di jaringan Oppo Store dan partner retail resmi Oppo di seluruh Indonesia.","[3.9725638e-08 4.8431859e-10 1.5185447e-06 3.4078184e-08 8.4508727e-08
- 9.9999833e-01]",teknologi,3.9725637890342114e-08,4.84318585236565e-10,1.518544650025433e-06,3.40781838303883e-08,8.450872712728597e-08,0.9999983310699463,"?category=teknologi&bola=3.9725638e-08&health=4.843186e-10&lifestyle=1.5185447e-06&news=3.4078184e-08&otomotif=8.450873e-08&teknologi=0.99999833&text=Mau Punya Kerjaan Sampingan? 4 Ide Side Hustle ini Bisa Dilakukan dengan Smartphone
+Foto: Yamaha Wendy Purnama Putra dari W Bike Kustom mengubah XSR155 menjadi konsep adventure.
+""Dengan modifikasi penggunaan roda yang besar, motor Yamaha XSR 155 ini menjelma menjadi motor yang siap diajak adventure,” ungkap Wendy.
+Tangki standar XSR 155 hilang diganti model custom yang lebih ringkas dan dibuat seolah menyatu dengan jok rata sampai ke belakang dengan model roti sobek.
+Untuk mengubah motor jadi proporsi yang diinginkan, Wendy mengubah sektor kaki-kaki dan area transfer gear, agar bisa sesuai dengan penggunaan roda yang lebih besar.
 
-KOMPAS.com - Side hustle atau pekerjaan sampingan menjadi solusi bagi milenial yang ingin mencari uang tambahan. Selain itu, melakoni side hustle juga membawa kepuasan tersendiri. Sebab, side hustle yang dijalani biasanya merupakan hobi atau passion.
-Di era digital seperti sekarang, side hustle menjadi peluang yang sayang untuk dilewatkan. Pilihan pekerjaannya beragam, sudah begitu mencarinya pun tergolong mudah. Bahkan, beberapa pekerjaan side hustle bisa dilakukan di rumah hanya bermodalkan smartphone.
-Hal itu dapat membawa keuntungan tersendiri karena kamu tak perlu repot keluar rumah untuk mendapatkan penghasilan tambahan.
+Foto: Yamaha Wendy Purnama Putra dari W Bike Kustom mengubah XSR155 menjadi konsep adventure.
+”Motor XSR 155 ini motor dual purpose dengan suspensi dan kaki-kakinya nyaman. Banyak peminat motor ini di Indonesia, cocok untuk bepergian ke tempat-tempat baru dan pastinya untuk tampil dengan gaya retro modern,” katanya.
+Agar proporsional setangnya dibuat tinggi. Kemudian kaki-kaki, rangka dan mesin dicat warna hitam. Adapun bodi, tangki, batok kampu depan dan sepatbor depan dibcat warna hijau tentara.
+Terakhir Wendy mengatakan XSR 155 punya potensi yang luas dalam modifikasi, terutama dengan teknologi yang diusungnya, yakni mesin 155cc yang cukup mumpuni.","[3.2033120e-05 2.6775790e-06 3.2335323e-05 2.1620192e-05 9.9989450e-01
+ 1.6816286e-05]",otomotif,3.203312007826753e-05,2.6775790047395276e-06,3.233532333979383e-05,2.1620191546389833e-05,0.9998944997787476,1.6816286006360315e-05,"?category=otomotif&bola=3.203312e-05&health=2.677579e-06&lifestyle=3.2335323e-05&news=2.1620192e-05&otomotif=0.9998945&teknologi=1.6816286e-05&text=Yamaha XSR 155 Custom, Big Wheels Bike
+YOGYAKARTA, KOMPAS.com - Empat builder dari Jawa Tengah dan Jogja menampilkan hasil custom motor XSR 155 di event Yard Built Indonesia yang digelar di Yogyakarta, Sabtu 26 Maret 2021.
+Salah satu builder yang tampil adalah ajang kali ini ialah Wendy Purnama dari W Bike Kustom. Wendy memamerkan motor custom XSR 155 bertemakan Big Wheels Bike.
+Berbeda dengan builder lain, motor karya Wendy memiliki konsep fun adventure. Konsepnya diambil dari motor zaman dulu Yamaha yang pernah eksis pada tahun 80'an.
 
-Lalu, apa saja jenis profesi yang lagi tren dan dapat dijadikan pekerjaan sampingan dengan menggunakan smartphone? Simak ulasannya di bawah ini.
-Pesatnya perkembangan e-sports dalam beberapa tahun belakangan membuka peluang dari berbagai macam profesi baru yang berkaitan dengan dunia game. Salah satunya adalah gamers profesional yang banyak digandrungi milenial dan gen Z.
-Dengan profesi tersebut, seseorang dapat mengikuti berbagai turnamen, baik berskala nasional maupun internasional. Adapun game dari mobile e-sports yang kerap dipertandingkan, yakni Mobile Legends: Bang Bang, Arena of Valor (AOV), PlayerUnknown's Battlegrounds (PUBG), serta Free Fire.
+Foto: Yamaha XSR 155 Motoride ?Tour the Java Heritage?
+Tampang XSR 155 yang berpenampilan retro hilang berganti motor ""kalcer."" Bisa dikatakan ciri khas XSR 155 yang masih dapat terlihat ialah aksen alumunium lubang tiga di bagian samping.
+”Saya memilih tema modifikasi itu karena unik dan berbeda, dan desain ini juga menjadi nostalgia model motor tahun ‘80-an Yamaha BW200 yang mempunyai roda yang besar,"" katanya dalam keterangan resmi, belum lama ini.
+Dari depan lampu depan bulat berganti kotak dengan batok yang menjadi rumah klater meter. Kemudian sepatbor depannya ala motocross jadul berpenampilan besar.
+Tampilan mencolok terlihat dari aplikasi ban bongsor dengan tapak kasar. Wendy mengklaim ubahan ini membuat motornya mudah diajak bertualang.
 
-Untuk melakoni profesi sebagai gamers profesional, kamu membutuhkan smartphone terkini yang dibekali chipset andal serta RAM dan memori internal (ROM) berkapasitas jumbo. Hal ini merupakan syarat wajib karena game keluaran terkini memiliki minimum spesifikasi perangkat yang agak berat.
-DOK.Oppo Indonesia. Ilustrasi seorang gamers bermain game menggunakan Oppo Reno7 Series 5G. 
-Adapun smartphone terkini yang memiliki spesifikasi mumpuni untuk melibas game e-sport adalah Oppo Reno7 Series 5G . Sebagai informasi, Oppo Reno7 Series 5G memiliki dua varian, yakni Oppo Reno7 5G dan Oppo Reno7 Z 5G.
-Oppo Reno7 5G dibekali prosesor teranyar Mediatek Dimensity 900 5G. Sementara, Oppo Reno7 Z 5G menggunakan prosesor terbaru Snapdragon 695 5G. Kedua prosesor itu kompatibel dengan jaringan 5G di Indonesia, terutama pada dukungan band N1, N3 dan N40.
-Untuk memori, Oppo Reno7 5G didukung RAM 8 gigabita (GB) dengan teknologi ekspansi hingga 5 GB dan kapasitas penyimpanan internal sebesar 256 GB.
+Foto: Yamaha Wendy Purnama Putra dari W Bike Kustom mengubah XSR155 menjadi konsep adventure.
+""Dengan modifikasi penggunaan roda yang besar, motor Yamaha XSR 155 ini menjelma menjadi motor yang siap diajak adventure,” ungkap Wendy.
+Tangki standar XSR 155 hilang diganti model custom yang lebih ringkas dan dibuat seolah menyatu dengan jok rata sampai ke belakang dengan model roti sobek.
+Untuk mengubah motor jadi proporsi yang diinginkan, Wendy mengubah sektor kaki-kaki dan area transfer gear, agar bisa sesuai dengan penggunaan roda yang lebih besar.
 
-Sementara itu, Oppo Reno7 Z 5G juga dimodali RAM 8 GB dengan opsi ekspansi hingga 5 GB dan kapasitas penyimpanan internal 128 GB.
-Dengan spesifikasi tersebut, kedua smartphone Oppo Reno7 Series 5G tersebut mampu melibas game e-sport tanpa hambatan.
-Oppo Reno7 5G dan Oppo Reno7 Z 5G juga menawarkan penggunaan jaringan internet ngebut berbasis 5G. Dengan demikian, aktivitas main game dapat dilakukan lebih lancar dibandingkan jaringan 4G.
-Selain itu, kedua smartphone Oppo Reno7 Series 5G itu sudah dibekali layar AMOLED 6,4 inci dengan resolusi Full HD Plus. Hal ini membuat aktivitas bermain game serta menonton film menjadi lebih jelas dan puas.
-Senang berdandan atau mendandani orang lain? Kamu bisa mencoba profesi sampingan, seperti beauty vlogger. Kamu bisa membuat konten mendandani orang atau diri sendiri di media sosial sebagai ladang penghasilan yang cukup menjanjikan.
-Sebagai contoh, kamu bisa membuat konten tutorial make up atau aktivitas menggunakan skincare, terutama lewat Youtube dan Instagram.
-Bila konten yang dibuat menarik, kamu bisa mendapatkan banyak follower. Selanjutnya, kamu berpeluang untuk mendapatkan endorse dari berbagai brand kecantikan.
-Saat ini, melakoni pekerjaan sampingan beauty vlogger pun bisa dilakukan melalui smartphone. Pasalnya, smartphone terkini sudah dibekali kamera dengan resolusi tinggi dan fitur canggih.
-Sebagai contoh, Oppo Reno7 5G sudah dibekali tiga kamera belakang dan satu kamera depan. Kamera belakangnya terdiri dari kamera utama 64 megapiksel (MP), kamera ultra-wide 8 MP, kamera makro 2 MP. Kamera depannya memiliki resolusi 32 MP.
-Sementara itu, Oppo Reno7 Z 5G dibekali kamera utama 64 MP, kamera bokeh 2 MP, kamera makro 2 MP. Kamera selfie-nya memiliki resolusi 16 MP.
-DOK. Oppo Indonesia. Hasil jepretan kamera Oppo Reno7 Series 5G meniru cara kerja kamera DSLR.
-Selain spesifikasi kamera mumpuni, kedua smartphone Oppo Reno7 Series 5G itu dibekali fitur canggih yang bisa meniru hasil kamera digital single lens reflex (DSLR) dengan lensa bukaan diafragma besar.
-Sebagai gambaran, fitur Portrait Mode Pada Oppo Reno7 5G dapat mensimulasikan 25 tingkatan ukuran diafragma yang dapat disesuaikan, mulai dari bukaan (f) 0.95 hingga f16.
-Selain itu, pada Reno7 Series 5G, Oppo juga menghadirkan fitur Bokeh Flare Portrait. Fitur ini untuk menghadirkan efek bokeh layaknya diproduksi menggunakan kamera profesional pada sebuah perangkat smartphone.
+Foto: Yamaha Wendy Purnama Putra dari W Bike Kustom mengubah XSR155 menjadi konsep adventure.
+”Motor XSR 155 ini motor dual purpose dengan suspensi dan kaki-kakinya nyaman. Banyak peminat motor ini di Indonesia, cocok untuk bepergian ke tempat-tempat baru dan pastinya untuk tampil dengan gaya retro modern,” katanya.
+Agar proporsional setangnya dibuat tinggi. Kemudian kaki-kaki, rangka dan mesin dicat warna hitam. Adapun bodi, tangki, batok kampu depan dan sepatbor depan dibcat warna hijau tentara.
+Terakhir Wendy mengatakan XSR 155 punya potensi yang luas dalam modifikasi, terutama dengan teknologi yang diusungnya, yakni mesin 155cc yang cukup mumpuni."
+5,teknologi0.txt,"Cara Transfer GoPay ke ShopeePay dengan Mudah 
 
-Untuk mengoptimalkan subyek foto, Oppo juga menyertakan fitur Selfie HDR pada Oppo Reno7 Series 5G. Selfie HDR dapat menghasilkan foto selfie yang jernih pada lingkungan kurang cahaya atau berlebihan.
-Selain itu, terdapat juga fitur Portrait Retouching. Fitur ini dapat mengenali titik spesifik pada wajah dengan tepat. Secara cerdas, Portrait Retouching dapat mempercantik foto, mulai dari memperbaiki warna kulit atau riasan hingga melakukan penghapusan noda pada wajah, seperti bekas jerawat.
-Bila suka jalan-jalan dan me-review sebuah tempat wisata, kamu bisa mempertimbangkan pekerjaan sampingan menjadi travel vlogger. Kamu bisa membuat video menarik mengenai tempat wisata dan merekomendasikannya kepada pengikut kamu di media sosial.
-Dulu, para traveler kerap membagikan pengalamannya mengunjungi tempat wisata dalam bentuk tulisan di blog.
-Namun, kini banyak traveler yang memilih membagikan ulasan perjalanannya melalui YouTube atau Instagram. Pasalnya, video atau foto yang diposting di YouTube dan Instagram dianggap lebih menarik minat milenial dibandingkan tulisan di blog.
-Saat ini, aktivitas traveler vlogger dapat dilakukan melalui smartphone terkini. Smartphone tersebut harus dibekali fitur videografi terkini supaya dapat memenuhi standar video 4K. Dengan demikian, kualitas video yang dihasilkan pun menjadi lebih tajam dan detail.
-DOK. Oppo Indonesia. Ilustrasi traveler memotret menggunakan Oppo Reno7 Series 5G. 
-Untuk diketahui, kamera belakang Oppo Reno7 5G mampu melakukan pengambilan gambar hingga kualitas 4K dengan kisaran 30 gambar per detik atau frame per second (fps).
-Kamera itu juga dapat mengambil gambar dengan kualitas 1080 piksel (p) atau Full HD dan 720p atau HD dengan kisaran 60 fps dan 30 fps.
-Selanjutnya, kamera depannya sudah mendukung pengambilan gambar 1080p dan 720p dengan 30 fps.
-Sementara itu, Oppo Reno7 Z 5G memiliki kamera belakang yang mendukung pengambilan gambar 1080p dan 720p dengan 30fps. Kamera depannya juga dapat merekam gambar dengan resolusi yang sama.
-Membicarakan fitur, Oppo Reno7 Series 5G sudah dibekali fitur videografi kelas profesional. Misalnya, AI Highlight Video dapat membantu untuk menangkap gambar lebih detail dan menyeimbangkan cahaya pada video tanpa mengurangi detail pada background.
+KOMPAS.com - ShopeePay kerapkali menjadi andalan pengguna untuk bertransaksi secara non-tunai atau cashless. Hal ini dikarenakan ShopeePay memiliki beragam program promo maupun cashback yang menarik bagi pengguna.
+Untuk melakukan transaksi, pengguna harus melakukan top-up saldo ShopeePay melalui berbagai cara yang dapat dipilih seperti transfer bank lewat ATM, M-Banking, maupun top-up melalui merchant rekanan ShopeePay.
 
-Dengan fitur itu, pengguna tidak akan mendapati video yang diambil terlalu terang atau gelap pada perekaman Reno7 Series 5G.
-Untuk Oppo Reno7 5G, Oppo telah meningkatkan kemampuan Focus Tracking pada perekaman video.
-Caranya, cukup mengetuk dua kali pada wajah yang ingin dijadikan subyek untuk melacaknya saat merekam video. Selanjutnya, kamera akan mengidentifikasi subyek yang dipilih dan melacaknya secara konsisten.
-Influencer menjadi profesi yang menjadi idaman milenial dan gen Z. Untuk menekuni profesi sampingan ini, setidaknya kamu memiliki beberapa syarat, mulai dari aktif di media sosial, punya banyak pengikut, sering berkomunikasi dengan followers, hingga memiliki konten menarik.
-Menekuni profesi influencer tergolong bisnis bermodal kecil yang menguntungkan karena dapat dilakukan melalui smartphone.
-Kamu bisa memilih media sosial yang bisa dijadikan lahan untuk membuat konten kreatif dan banyak pengikut, seperti Instagram. Selanjutnya, kamu bisa membuat konten yang sesuai dengan hobi, passion, atau kegemaranmu atas suatu hal.
-Bila jumlah pengikutmu mencapai puluhan atau ratusan ribu, kamu berpeluang untuk mendapatkan banyak endorse dari brand yang ingin menggunakan jasa kamu untuk berpromosi.
-Untuk menjadi influencer, kamu membutuhkan perangkat smartphone terkini yang dapat menunjang aktivitasmu sepanjang hari. Selain aktif di media sosial, influencer juga memiliki kesibukan lain di luar profesinya.
-Oleh karena itu, memiliki smartphone dengan kapasitas baterai besar dan fitur fast charging menjadi sebuah keharusan.
-Oppo Reno7 5G memiliki kapasitas baterai sebesar 4.500 miliampere per hour (mAh). Baterainya dibekali dengan teknologi pengisian daya super cepat 65 watt (W) SuperVOOC.
-Dengan teknologi tersebut, pengguna dapat mengisi daya perangkat hingga 100 persen dalam waktu sekitar 31 menit.
-(DOK. Oppo Indonesia). Oppo Reno7 Series 5G mampu menunjang side hustle. 
-Sementara itu, Oppo Reno7 Z 5G dilengkapi baterai 4.500 mAh dan teknologi pengisian daya super cepat 33 W SuperVOOC. Fitur pengisian ini membuat pengguna mampu mengisi baterai sampai penuh dalam waktu 63 menit.
-Kedua smartphone Oppo Reno7 Series 5G itu dapat digunakan seharian untuk menunjang aktivitas berkat kapasitas baterai besar dan fitur fast charging.
-Itulah empat ide side hustle yang bisa kamu lakukan cukup bermodalkan smartphone terkini. Dengan spesifikasi dan teknologi terkini, kamu bisa mempertimbangkan Oppo Reno7 Series 5G untuk mencicipi peluang pekerjaan sampingan.
-Sebagai informasi, Oppo Reno7 5G memiliki harga Rp 7.499.000 dan Oppo Reno7 Z 5G Rp 5.999.000. Kamu bisa mendapatkan kedua varian Oppo Reno7 Series 5G ini dengan paket bundling eksklusif Telkomsel. Paket tersebut berupa paket data hingga 192 GB dan tambahan 10 GB eksklusif pada jaringan 5G.
-Kamu bisa memesan Oppo Reno7 Series 5G secara daring di seluruh e-commerce di Indonesia dan aplikasi Oppo Store. Sementara, untuk pemesanan offline, kamu bisa membelinya di jaringan Oppo Store dan partner retail resmi Oppo di seluruh Indonesia."
+Tidak hanya lewat kanal di atas, isi saldo ShopeePay juga bisa dilakukan antar dompet digital, salah satunya GoPay. Pengguna ShopeePay bisa transfer saldo dari e-wallet milik Gojek itu ke ShopeePay mereka.
+Agar transfer Gopay ke ShopeePay bisa dilakukan, pengguna harus melakukan upgrade GoPay ke akun GoPay Plus terlebih dahulu.
+
+Lantas bagaimana caranya? Berikut ini KompasTekno rangkum langkah - langkahnya. 
+Cara transfer GoPay ke ShopeePay
+Kompas.com/soffyaranti ShopeePay
+Kompas.com/soffyaranti Cara transfer GoPay ke ShopeePay
+
+Sebagai informasi, untuk pengguna yang akan melakukan transfer melalui GoPay , terdapat biaya admin yang dikenakan yaitu Rp 2.500. Sedangkan pada ShopeePay, terdapat biaya admin Rp 500. Itulah cara transfer GoPay ke ShopeePay. Semoga membantu. ","[1.7422662e-03 2.9016956e-04 1.8908018e-04 7.8381607e-05 2.4760035e-03
+ 9.9522406e-01]",teknologi,0.0017422662349417806,0.00029016955522820354,0.00018908017955254763,7.83816067269072e-05,0.002476003486663103,0.9952240586280823,"?category=teknologi&bola=0.0017422662&health=0.00029016956&lifestyle=0.00018908018&news=7.838161e-05&otomotif=0.0024760035&teknologi=0.99522406&text=Cara Transfer GoPay ke ShopeePay dengan Mudah 
+
+KOMPAS.com - ShopeePay kerapkali menjadi andalan pengguna untuk bertransaksi secara non-tunai atau cashless. Hal ini dikarenakan ShopeePay memiliki beragam program promo maupun cashback yang menarik bagi pengguna.
+Untuk melakukan transaksi, pengguna harus melakukan top-up saldo ShopeePay melalui berbagai cara yang dapat dipilih seperti transfer bank lewat ATM, M-Banking, maupun top-up melalui merchant rekanan ShopeePay.
+
+Tidak hanya lewat kanal di atas, isi saldo ShopeePay juga bisa dilakukan antar dompet digital, salah satunya GoPay. Pengguna ShopeePay bisa transfer saldo dari e-wallet milik Gojek itu ke ShopeePay mereka.
+Agar transfer Gopay ke ShopeePay bisa dilakukan, pengguna harus melakukan upgrade GoPay ke akun GoPay Plus terlebih dahulu.
+
+Lantas bagaimana caranya? Berikut ini KompasTekno rangkum langkah - langkahnya. 
+Cara transfer GoPay ke ShopeePay
+Kompas.com/soffyaranti ShopeePay
+Kompas.com/soffyaranti Cara transfer GoPay ke ShopeePay
+
+Sebagai informasi, untuk pengguna yang akan melakukan transfer melalui GoPay , terdapat biaya admin yang dikenakan yaitu Rp 2.500. Sedangkan pada ShopeePay, terdapat biaya admin Rp 500. Itulah cara transfer GoPay ke ShopeePay. Semoga membantu. "

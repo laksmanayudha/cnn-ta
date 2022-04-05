@@ -125,15 +125,15 @@ def get_model_base_1d(feature_maps, filter_sizes, input_len, summary=False):
 
 def get_model_base_tfidf(feature_maps, filter_sizes, input_len, summary=False):
     # Kim Yoon CNN
-    sequence_input = Input(shape=(1,input_len), dtype='float32')
-    x = Conv1D(feature_maps, filter_sizes, activation='relu')(sequence_input)
+    input = Input(shape=(1,input_len), dtype='float32')
+    x = Conv1D(feature_maps, filter_sizes, activation='relu')(input)
     x = GlobalMaxPool1D()(x)
     x = Flatten()(x)
     x = Dense(128, activation='relu')(x)
     x = Dropout(0.5)(x)
     output = Dense(6, activation='softmax')(x)
 
-    model = Model(sequence_input, output)
+    model = Model(input, output)
     model.compile(loss='categorical_crossentropy',
                   optimizer='adam',
                   metrics=['acc'])
