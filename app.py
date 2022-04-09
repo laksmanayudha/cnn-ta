@@ -1,4 +1,6 @@
 import sys
+
+from asset.klasifikasi.preprocess import remove_punctuation_sentence_space
 sys.path.append("./asset/klasifikasi")
 
 import os
@@ -54,13 +56,19 @@ Session(app)
 localStorage = localStoragePy('./', 'text')
 
 def preprocess_data(text):
+    print(text)
     text = case_folding_sentence(text)
-    text = remove_punctuation_sentence(text)
+    print('case folding: ', text)
+    text = remove_punctuation_sentence_space(text)
     text = remove_number(text)
     text = remove_single_character(text)
+    print('punct remove: ', text)
     text = stemming_sentence(text)
+    print('stemming: ', text)
     text = tokenize_split_sentence(text)
+    print('tokenizeP ', text)
     text = stop_word_removal_sentence(text)
+    print('stopword: ', text)
     text = " ".join(text)
     
     return text

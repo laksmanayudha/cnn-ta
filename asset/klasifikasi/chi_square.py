@@ -68,8 +68,8 @@ def get_term_binary_matrix(input_doc_list):
     word_list = vectorizer.get_feature_names()
 
     #binary word document matrix
-    # vectorizer = CountVectorizer(binary=True)
-    vectorizer = CountVectorizer()
+    vectorizer = CountVectorizer(binary=True)
+    # vectorizer = CountVectorizer()
     X = vectorizer.fit_transform(input_doc_list)
     word_binary_matrix = X.toarray()
     count_list = word_binary_matrix.sum(axis=0)

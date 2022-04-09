@@ -10,24 +10,28 @@ def case_folding_sentence(data):
 
 def remove_punctuation_sentence(data):
   punc = string.punctuation #!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+  data = data.replace("\n", " ")
+  data = data.replace("\xa0", " ")
   new_text = ''
   for letter in data:
     if letter not in punc:
       new_text += letter
-  new_text = new_text.replace("\n", " ")
-  new_text = new_text.replace("\xa0", " ")
+  # new_text = new_text.replace("\n", " ")
+  # new_text = new_text.replace("\xa0", " ")
   return new_text
 
 def remove_punctuation_sentence_space(data):
   punc = string.punctuation #!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+  data = data.replace("\n", " ")
+  data = data.replace("\xa0", " ")
   new_text = ''
   for letter in data:
     if letter not in punc:
         new_text += letter
     else:
         new_text += " "
-  new_text = new_text.replace("\n", " ")
-  new_text = new_text.replace("\xa0", " ")
+  # new_text = new_text.replace("\n", " ")
+  # new_text = new_text.replace("\xa0", " ")
   return new_text
 
 def tokenize_sentence(data):
